@@ -2,21 +2,6 @@ const updates = require("./lastUpdate.json");
 let db = require("./vpsdb.json");
 const fs = require("fs");
 
-updates.forEach((update) => {
-  switch (update.action) {
-    case "DELETE":
-      deleteGame(update);
-    case "CREATE":
-      createGame(update);
-    case "UPDATE":
-      updateGame(update);
-    default:
-      console.log("FAULTY ACTION");
-  }
-});
-
-fs.writeFile("vpsdb.json", JSON.stringify(db), console.log);
-
 const deleteGame = ({ name, year, manufacturer }) => {
   const index = db.findIndex(
     (g) => g.name === name && g.year === year && g.manufacturer === manufacturer
@@ -41,3 +26,18 @@ const updateGame = ({ name, year, manufacturer, data }) => {
     db[i] = data;
   }
 };
+
+updates.forEach((update) => {
+  switch (update.action) {
+    case "DELETE":
+      deleteGame(update);
+    case "CREATE":
+      createGame(update);
+    case "UPDATE":
+      updateGame(update);
+    default:
+      console.log("FAULTY ACTION");
+  }
+});
+
+fs.writeFile("vpsdb.json", JSON.stringify(db), console.log);

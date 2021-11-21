@@ -1,11 +1,11 @@
-name: GitHub Actions Demo
+name: VPS-Updates
 on:
   push:
     paths:
       - "lastUpdate.json"
 
 jobs:
-  Explore-GitHub-Actions:
+  Update-Database:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
