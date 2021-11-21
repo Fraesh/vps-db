@@ -31,10 +31,13 @@ updates.forEach((update) => {
   switch (update.action) {
     case "DELETE":
       deleteGame(update);
+      break;
     case "CREATE":
       createGame(update);
+      break;
     case "UPDATE":
       updateGame(update);
+      break;
     default:
       console.log("FAULTY ACTION");
   }
