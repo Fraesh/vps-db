@@ -2,13 +2,12 @@ const updates = require("./lastUpdate.json");
 let db = require("./vpsdb.json");
 const fs = require("fs");
 
-const deleteGame = ({ name, year, manufacturer }) => {
-  const index = db.findIndex(
-    (g) => g.name === name && g.year === year && g.manufacturer === manufacturer
-  );
+const deleteGame = ({ id }) => {
+  const index = db.findIndex((g) => g.id === id);
   if (index >= 0) {
-    console.log(`DELETE ${name}-${year}-${manufacturer}`);
-    db = db.splices(index, 1);
+    const el = db[index];
+    console.log(`DELETE ${el.name}-${el.year}-${el.manufacturer}`);
+    db.splice(index, 1);
   }
 };
 
@@ -17,12 +16,10 @@ const createGame = ({ data }) => {
   console.log(`CREATE ${data.name}-${data.year}-${data.manufacturer}`);
 };
 
-const updateGame = ({ name, year, manufacturer, data }) => {
-  const index = db.findIndex(
-    (g) => g.name === name && g.year === year && g.manufacturer === manufacturer
-  );
+const updateGame = ({ id, data }) => {
+  const index = db.findIndex((g) => g.id === id);
   if (index >= 0) {
-    console.log(`UPDATE ${name}-${year}-${manufacturer}`);
+    console.log(`UPDATE ${data.name}-${data.year}-${data.manufacturer}`);
     db[i] = data;
   }
 };
