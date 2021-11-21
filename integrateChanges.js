@@ -20,7 +20,7 @@ const updateGame = ({ id, data }) => {
   const index = db.findIndex((g) => g.id === id);
   if (index >= 0) {
     console.log(`UPDATE ${data.name}-${data.year}-${data.manufacturer}`);
-    db[i] = data;
+    db[index] = data;
   }
 };
 
