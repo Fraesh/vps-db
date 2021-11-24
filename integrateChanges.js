@@ -21,6 +21,8 @@ const updateGame = ({ id, data }) => {
   if (index >= 0) {
     console.log(`UPDATE ${data.name}-${data.year}-${data.manufacturer}`);
     db[index] = data;
+  } else {
+    db.push(data);
   }
 };
 
