@@ -1,7 +1,7 @@
 ### Disclaimer
 
-This app is for the people who enjoy the virtual pinball hobby, NOT for
-the people who want to profit from the community and its content.
+**This app is for the people who enjoy the virtual pinball hobby, NOT for
+the people who want to profit from the community and its content.**
 
 All information and content on this spreadsheet is published in good
 faith and for general educational and hobby based purposes only. We do
