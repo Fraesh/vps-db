@@ -25,4 +25,5 @@ By using this app, you hereby consent to our disclaimer and agree to its
 terms of service.
 
 Have fun!
+
 _Dux Retro & Fraesh_
