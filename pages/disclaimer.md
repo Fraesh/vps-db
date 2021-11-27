@@ -3,6 +3,8 @@
 **This app is for the people who enjoy the virtual pinball hobby, NOT for
 the people who want to profit from the community and its content.**
 
+&nbsp;
+
 All information and content on this spreadsheet is published in good
 faith and for general educational and hobby based purposes only. We do
 not guarantee completeness, reliability or accuracy of the information
@@ -15,6 +17,8 @@ sites. These links do not imply recommendations or biases towards
 specific platforms and are listed merely in the order they were updated
 last.
 
+&nbsp;
+
 Content may be updated or removed by site owners before we can adjust
 our dataset.
 
@@ -23,6 +27,8 @@ than VPS, so please be cautious of that before uploading sensitive data.
 
 By using this app, you hereby consent to our disclaimer and agree to its
 terms of service.
+
+&nbsp;
 
 Have fun!
 
