@@ -27,7 +27,7 @@ const puppeteerDownload = async (url, fileName) => {
   }
 };
 
-const download = async (url, fileName) => {
+const downloadAxios = async (url, fileName) => {
   try {
     console.log("AXIOS: ", url);
     const buffer = await axios.get(url, { responseType: "arraybuffer" });
@@ -44,18 +44,26 @@ const download = async (url, fileName) => {
   }
 };
 
+const download = async (imgUrl, fileName) => {
+  let worked = await downloadAxios(imgUrl, fileName);
+  if (!worked) {
+    worked = await puppeteerDownload(imgUrl, fileName);
+  }
+  if (worked) {
+    console.log("SCRAPED IMG: ", fileName);
+    imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
+  } else {
+    console.log("BOTH FAILED");
+  }
+};
+
 const getImages = async (el) => {
   if (el.tableFiles) {
     await Promise.all(
       el.tableFiles?.map(async (tb) => {
-        if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
+        if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github.io")) {
           const fileName = `${el.id}_table_${new Date().getTime()}`;
-          let worked = await download(tb.imgUrl, fileName);
-          if (!worked) worked = await puppeteerDownload(tb.imgUrl, fileName);
-          if (worked) {
-            console.log("SCRAPED IMG: ", fileName);
-            tb.imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
-          }
+          await download(tb.imgUrl, fileName);
         }
       })
     );
@@ -65,11 +73,7 @@ const getImages = async (el) => {
       el.b2sFiles?.map(async (tb) => {
         if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
           const fileName = `${el.id}_b2s_${new Date().getTime()}`;
-          const worked = await download(tb.imgUrl, fileName);
-          if (worked) {
-            console.log(fileName);
-            tb.imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
-          }
+          await download(tb.imgUrl, fileName);
         }
       })
     );
