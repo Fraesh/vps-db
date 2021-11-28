@@ -15,15 +15,17 @@ const puppeteerDownload = async (url, fileName) => {
       waitUntil: "networkidle2",
     });
     const file = await response.buffer();
-    sharp(file)
+    await sharp(file)
       .resize({ height: 700 })
       .webp({ quality: 50, reductionEffort: 6 })
       .toFile(`img/${fileName}.webp`, (err, info) => {
-        if (err) console.log(err);
+        if (err) throw new Error();
       });
     await browser.close();
+    return true;
   } catch (e) {
     console.log("ERR: ", url);
+    return false;
   }
 };
 
