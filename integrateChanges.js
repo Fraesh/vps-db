@@ -20,38 +20,34 @@ const download = async (url, fileName) => {
 };
 
 const getImages = async (games) => {
-  await Promise.all(
-    games.map(async (el) => {
-      if (el.tableFiles) {
-        await Promise.all(
-          el.tableFiles?.map(async (tb) => {
-            if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
-              const fileName = `${el.id}_table_${new Date().getTime()}`;
-              const worked = await download(tb.imgUrl, fileName);
-              console.log(fileName);
-              if (worked) {
-                tb.imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
-              }
-            }
-          })
-        );
-      }
-      if (el.b2sFiles) {
-        await Promise.all(
-          el.b2sFiles?.map(async (tb) => {
-            if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
-              const fileName = `${el.id}_b2s_${new Date().getTime()}`;
-              const worked = await download(tb.imgUrl, fileName);
-              console.log(fileName);
-              if (worked) {
-                tb.imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
-              }
-            }
-          })
-        );
-      }
-    })
-  );
+  if (el.tableFiles) {
+    await Promise.all(
+      el.tableFiles?.map(async (tb) => {
+        if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
+          const fileName = `${el.id}_table_${new Date().getTime()}`;
+          const worked = await download(tb.imgUrl, fileName);
+          console.log(fileName);
+          if (worked) {
+            tb.imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
+          }
+        }
+      })
+    );
+  }
+  if (el.b2sFiles) {
+    await Promise.all(
+      el.b2sFiles?.map(async (tb) => {
+        if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
+          const fileName = `${el.id}_b2s_${new Date().getTime()}`;
+          const worked = await download(tb.imgUrl, fileName);
+          console.log(fileName);
+          if (worked) {
+            tb.imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
+          }
+        }
+      })
+    );
+  }
 };
 
 // UPDATE DATABASE
