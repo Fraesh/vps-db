@@ -53,7 +53,7 @@ const download = async (imgUrl, fileName) => {
   }
   if (worked) {
     console.log("SCRAPED IMG: ", fileName);
-    imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
+    return `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
   } else {
     console.log("BOTH FAILED");
   }
@@ -75,7 +75,10 @@ const getImages = async (el) => {
       el.b2sFiles?.map(async (tb) => {
         if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
           const fileName = `${el.id}_b2s_${new Date().getTime()}`;
-          await download(tb.imgUrl, fileName);
+          const url = await download(tb.imgUrl, fileName);
+          if (url) {
+            tb.imgUrl = url;
+          }
         }
       })
     );
