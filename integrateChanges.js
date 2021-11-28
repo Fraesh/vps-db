@@ -65,7 +65,7 @@ const getImages = async (el) => {
     const url = await download(el.imgUrl, fileName);
     if (url) {
       console.log("ADDED NEW URL", url);
-      tb.imgUrl = url;
+      el.imgUrl = url;
     }
   }
 
