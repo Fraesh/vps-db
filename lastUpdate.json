@@ -1,1 +1,36 @@
-[{"action":"UPDATE","id":"e6e8cc04-c063-4ec9-ba37-3d417ce2030a","data":{"name":"Death Proof","type":"SS","manufacturer":"Original","year":2021,"theme":["Movie"],"imgUrl":"https://cdn.vpuniverse.com/monthly_2021_11/BAckglassHP.png.0a8f9af34134e05d902884127a14957c.png","tableFiles":[{"createdAt":1637957955034,"authors":["Balutito","Herweh","Mussinger"],"updatedAt":1638117320540,"tableFormat":"VPX","features":["MOD","incl. B2S","incl. Art","incl. Video"],"urls":[{"url":"https://vpuniverse.com/forums/files/file/8035-death-proof/"}],"version":"1.0.0","theme":["Movie"],"imgUrl":"https://fraesh.github.io/vps-db/img/e6e8cc04-c063-4ec9-ba37-3d417ce2030a_table_1637958626225.webp"}],"updatedAt":1638117323488,"features":["MOD","incl. B2S","incl. Art","incl. Video","VPX"],"broken":false,"lastCreatedAt":1637957955034,"id":"e6e8cc04-c063-4ec9-ba37-3d417ce2030a"}}]
+[
+  {
+    "action": "UPDATE",
+    "id": "e6e8cc04-c063-4ec9-ba37-3d417ce2030a",
+    "data": {
+      "name": "Death Proof",
+      "type": "SS",
+      "manufacturer": "Original",
+      "year": 2021,
+      "theme": ["Movie"],
+      "imgUrl": "https://cdn.vpuniverse.com/monthly_2021_11/BAckglassHP.png.0a8f9af34134e05d902884127a14957c.png",
+      "tableFiles": [
+        {
+          "createdAt": 1637957955033,
+          "authors": ["Balutito", "Herweh", "Mussinger"],
+          "updatedAt": 1638117320540,
+          "tableFormat": "VPX",
+          "features": ["MOD", "incl. B2S", "incl. Art", "incl. Video"],
+          "urls": [
+            {
+              "url": "https://vpuniverse.com/forums/files/file/8035-death-proof/"
+            }
+          ],
+          "version": "1.0.0",
+          "theme": ["Movie"],
+          "imgUrl": "https://fraesh.github.io/vps-db/img/e6e8cc04-c063-4ec9-ba37-3d417ce2030a_table_1637958626225.webp"
+        }
+      ],
+      "updatedAt": 1638117323488,
+      "features": ["MOD", "incl. B2S", "incl. Art", "incl. Video", "VPX"],
+      "broken": false,
+      "lastCreatedAt": 1637957955034,
+      "id": "e6e8cc04-c063-4ec9-ba37-3d417ce2030a"
+    }
+  }
+]
