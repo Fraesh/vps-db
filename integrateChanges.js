@@ -3,9 +3,33 @@ let db = require("./vpsdb.json");
 const fs = require("fs");
 const sharp = require("sharp");
 const { default: axios } = require("axios");
+const puppeteer = require("puppeteer");
+
+const puppeteerDownload = async (url, fileName) => {
+  console.log("PUPPETEER: ", url);
+  try {
+    const browser = await puppeteer.launch({ headless: false });
+    const page = await browser.newPage();
+
+    const response = await page.goto(url, {
+      waitUntil: "networkidle2",
+    });
+    const file = await response.buffer();
+    sharp(file)
+      .resize({ height: 700 })
+      .webp({ quality: 50, reductionEffort: 6 })
+      .toFile(`img/${fileName}.webp`, (err, info) => {
+        if (err) console.log(err);
+      });
+    await browser.close();
+  } catch (e) {
+    console.log("ERR: ", url);
+  }
+};
 
 const download = async (url, fileName) => {
   try {
+    console.log("AXIOS: ", url);
     const buffer = await axios.get(url, { responseType: "arraybuffer" });
     sharp(buffer.data)
       .resize({ height: 700 })
@@ -15,8 +39,7 @@ const download = async (url, fileName) => {
       });
     return true;
   } catch (e) {
-    console.log("Couldnt fetch image: ", url);
-    console.log(e);
+    console.log("ERR: ", url);
     return false;
   }
 };
@@ -27,9 +50,10 @@ const getImages = async (el) => {
       el.tableFiles?.map(async (tb) => {
         if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
           const fileName = `${el.id}_table_${new Date().getTime()}`;
-          const worked = await download(tb.imgUrl, fileName);
+          let worked = await download(tb.imgUrl, fileName);
+          if (!worked) worked = await puppeteerDownload(tb.imgUrl, fileName);
           if (worked) {
-            console.log(fileName);
+            console.log("SCRAPED IMG: ", fileName);
             tb.imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
           }
         }
