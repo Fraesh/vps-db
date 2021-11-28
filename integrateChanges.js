@@ -16,6 +16,7 @@ const download = async (url, fileName) => {
     return true;
   } catch (e) {
     console.log("Couldnt fetch image: ", url);
+    console.log(e);
     return false;
   }
 };
