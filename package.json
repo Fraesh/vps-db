@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "axios": "^0.24.0",
-    "sharp": "^0.29.3"
-  }
-}
