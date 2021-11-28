@@ -11,10 +11,11 @@ const download = async (url, fileName) => {
       .resize({ height: 700 })
       .webp({ quality: 50, reductionEffort: 6 })
       .toFile(`img/${fileName}.webp`, (err, info) => {
-        console.log(err, info);
+        err && console.log(err);
       });
     return true;
   } catch (e) {
+    console.log("Couldnt fetch image: ", url);
     return false;
   }
 };
@@ -26,8 +27,8 @@ const getImages = async (el) => {
         if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
           const fileName = `${el.id}_table_${new Date().getTime()}`;
           const worked = await download(tb.imgUrl, fileName);
-          console.log(fileName);
           if (worked) {
+            console.log(fileName);
             tb.imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
           }
         }
@@ -40,8 +41,8 @@ const getImages = async (el) => {
         if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
           const fileName = `${el.id}_b2s_${new Date().getTime()}`;
           const worked = await download(tb.imgUrl, fileName);
-          console.log(fileName);
           if (worked) {
+            console.log(fileName);
             tb.imgUrl = `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
           }
         }

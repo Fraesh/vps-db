@@ -20,7 +20,9 @@ jobs:
       - name: Update resources
         uses: test-room-7/action-update-file@v1
         with:
-          file-path: "vpsdb.json"
+          file-path: |
+            vpsdb.json
+            img/*.webp
           commit-msg: Update Database
           github-token: ${{ secrets.GITHUB_TOKEN }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
