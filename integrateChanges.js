@@ -62,7 +62,7 @@ const download = async (imgUrl, fileName) => {
 const getImages = async (el) => {
   if (el.imgUrl && !el.imgUrl.includes("fraesh.github.io")) {
     const fileName = `${el.id}_cover_${new Date().getTime()}`;
-    const url = await download(tb.imgUrl, fileName);
+    const url = await download(el.imgUrl, fileName);
     if (url) {
       console.log("ADDED NEW URL", url);
       tb.imgUrl = url;
