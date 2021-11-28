@@ -65,7 +65,10 @@ const getImages = async (el) => {
       el.tableFiles?.map(async (tb) => {
         if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github.io")) {
           const fileName = `${el.id}_table_${new Date().getTime()}`;
-          await download(tb.imgUrl, fileName);
+          const url = await download(tb.imgUrl, fileName);
+          if (url) {
+            tb.imgUrl = url;
+          }
         }
       })
     );
