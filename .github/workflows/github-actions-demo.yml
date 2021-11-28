@@ -18,11 +18,14 @@ jobs:
       - name: Run integration script.
         run: npm i && node integrateChanges
       - name: Update resources
-        uses: test-room-7/action-update-file@v1
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file-path: |
-            vpsdb.json
-            img/*.webp
-          commit-msg: Update Database
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          # Optional, but recommended
+          # Defaults to "Apply automatic changes"
+          commit_message: updated db
+          # Optional. Skip internal call to `git fetch`
+          skip_fetch: true
+          # Optional. Prevents the shell from expanding filenames.
+          # Details: https://www.gnu.org/software/bash/manual/html_node/Filename-Expansion.html
+          disable_globbing: true
       - run: echo "🍏 This job's status is ${{ job.status }}."
