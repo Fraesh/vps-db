@@ -19,7 +19,7 @@ const download = async (url, fileName) => {
   }
 };
 
-const getImages = async (games) => {
+const getImages = async (el) => {
   if (el.tableFiles) {
     await Promise.all(
       el.tableFiles?.map(async (tb) => {
