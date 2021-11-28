@@ -16,8 +16,7 @@ jobs:
       - name: Install Node
         uses: actions/setup-node@v2
       - name: Run integration script.
-        run: npm i
-        run: node integrateChanges
+        run: npm i && node integrateChanges
       - name: Update resources
         uses: test-room-7/action-update-file@v1
         with:
