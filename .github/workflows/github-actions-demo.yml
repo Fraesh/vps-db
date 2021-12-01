@@ -3,7 +3,7 @@ on:
   push:
     paths:
       - "lastUpdate.json"
-
+concurrency: staging_environment
 jobs:
   Update-Database:
     runs-on: windows-latest
