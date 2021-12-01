@@ -3852,56 +3852,5 @@
       ],
       "broken": false
     }
-  },
-  {
-    "action": "UPDATE",
-    "id": "e405b37f086c5056cdf056cb2ee3842b",
-    "data": {
-      "name": "Terminator 1 TBA Edition",
-      "id": "e405b37f086c5056cdf056cb2ee3842b",
-      "manufacturer": "Original",
-      "year": 2019,
-      "theme": [],
-      "designers": [],
-      "ipdbUrl": "Not Available",
-      "type": "EM",
-      "updatedAt": 1638267577266,
-      "tableFiles": [
-        {
-          "urls": [
-            {
-              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=14312",
-              "broken": false
-            }
-          ],
-          "theme": [],
-          "comment": "Retheme of Lodger's Strawman (Original 2016)",
-          "version": "1.0",
-          "authors": ["Ivantba", "Lodger"],
-          "updatedAt": 1564178400000,
-          "createdAt": 1564178400000,
-          "tableFormat": "VPX",
-          "features": ["FlexDMD"],
-          "imgUrl": "https://fraesh.github.io/vps-db/img/e405b37f086c5056cdf056cb2ee3842b_table_1638094245045.webp"
-        }
-      ],
-      "features": ["FlexDMD", "VPX", "B2S"],
-      "lastCreatedAt": 1564178400000,
-      "b2sFiles": [
-        {
-          "createdAt": 1638267577266,
-          "urls": [
-            {
-              "url": "https://vpuniverse.com/forums/files/file/7927-terminator-1-original-2019/"
-            }
-          ],
-          "updatedAt": 1638267590823,
-          "version": "1.0.0",
-          "authors": ["Larouillas"],
-          "imgUrl": "https://cdn.vpuniverse.com/monthly_2021_11/2078350180_Terminator1(Original2019).png.9994d7b80c28d6cc67d8a16ab3d021cc.png"
-        }
-      ],
-      "broken": false
-    }
   }
 ]
