@@ -2,6 +2,14 @@
 
 VPS is a database for virtual pinball files. Files are sorted by game and can be of different types, supporting different features, and having multiple download locations.
 
+&nbsp;
+
+
+> Please keep in mind that we're still in beta! More features are coming, the database is beeing updated and bugs are being fixed every day :)
+
+&nbsp;
+
+
 ##### Lists
 Each list usually has multiple displays, either as cards, in a simple table, or the PincabPreview. The 3D pincab preview is more of a nice gimmick for you to enjoy, beware of the game table preview though as it can be heavy on your PC!
 
