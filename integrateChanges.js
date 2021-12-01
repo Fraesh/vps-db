@@ -128,23 +128,24 @@ const updateGame = async ({ id, data }) => {
 };
 
 const updateDatabase = async () => {
-  await Promise.all(
-    updates.map(async (update) => {
-      switch (update.action) {
-        case "DELETE":
-          deleteGame(update);
-          break;
-        case "CREATE":
-          await createGame(update);
-          break;
-        case "UPDATE":
-          await updateGame(update);
-          break;
-        default:
-          console.log("FAULTY ACTION");
-      }
-    })
-  );
+  for (let i = 0; i < updates.length; i++) {
+    const update = updates[i];
+
+    switch (update.action) {
+      case "DELETE":
+        deleteGame(update);
+        break;
+      case "CREATE":
+        await createGame(update);
+        break;
+      case "UPDATE":
+        await updateGame(update);
+        break;
+      default:
+        console.log("FAULTY ACTION");
+    }
+  }
+
   fs.writeFile("vpsdb.json", JSON.stringify(db), console.log);
 };
 
