@@ -28,5 +28,5 @@ VPS defaults to dark mode although you can switch to light on the top right corn
 ##### Administration
 Currently, we handpick people to help us populate the site with content, thats what the login button is for. If you want to contribute, hit us up on facebook or discord! Otherwise, there is currently no use to the login for you :)  
 
-##### Developement
+##### Development
 VPS is in constant developement.. If you want to follow the progress and see what's to come, you can see whats happening in our [Trello](https://trello.com/b/7nRafXyl/vps-webapp-developement)!
