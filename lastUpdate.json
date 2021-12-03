@@ -1,1 +1,421 @@
-[{"action":"UPDATE","id":"ab90595ed5fa5776ad081c984025d3f6","data":{"name":"Loch Ness Monster","id":"ab90595ed5fa5776ad081c984025d3f6","manufacturer":"Game Plan","year":1985,"MPU":"Game Plan MPU-2","theme":[],"players":4,"designers":["Joe Kaminkow","Ed Cebula"],"ipdbUrl":"https://www.ipdb.org/machine.cgi?id=1465","type":"SS","updatedAt":1623016800000,"tableFiles":[{"urls":[{"url":"https://www.vpforums.org/index.php?app=downloads&showfile=16083","broken":false},{"url":"https://vpuniverse.com/forums/files/file/6599-game-plans-loch-ness-monster/"}],"theme":[],"version":"1.0","authors":["Shannon1","Bord","Loserman76","GtxJoe","EalaDubSidhe"],"updatedAt":1629756000000,"createdAt":1623016800000,"tableFormat":"VPX","imgUrl":"https://fraesh.github.io/vps-db/img/ab90595ed5fa5776ad081c984025d3f6_table_1638490246282.webp","features":["incl. B2S"]},{"urls":[{"url":"https://www.vpforums.org/index.php?app=downloads&showfile=15577","broken":false}],"theme":[],"version":"1.0","authors":["Jino0372","Goldchicco","Roccodimarco","JPSalas","Ninuzzu"],"updatedAt":1617400800000,"createdAt":1617400800000,"tableFormat":"VPX","imgUrl":"https://fraesh.github.io/vps-db/img/ab90595ed5fa5776ad081c984025d3f6_table_1638490294000.webp","features":["incl. B2S"]},{"urls":[{"url":"https://vpinball.com/VPBdownloads/loch-ness-monster-rayner-mod/","broken":true}],"theme":[],"comment":"Rayner MOD - ED-62 Original Prototype","version":"1.0","authors":["AdrianRayner","Dave Sanders"],"updatedAt":1615590000000,"createdAt":1615590000000,"tableFormat":"VPX","features":["MOD"]},{"urls":[{"url":"https://vpinball.com/VPBdownloads/loch-ness-monster-game-plan-1985/","broken":true}],"theme":[],"version":"WIP","authors":["Goldchicco","Roccodimarco","Movieguru"],"updatedAt":1612825200000,"createdAt":1612825200000,"tableFormat":"VPX"}],"b2sFiles":[{"urls":[{"url":"https://vpinball.com/VPBdownloads/loch-ness-monster-game-plan-1985-b2s/","broken":true}],"version":"1.0","authors":["Fisch"],"updatedAt":1614726000000}],"features":["incl. B2S","VPX","MOD","B2S"],"lastCreatedAt":1623016800000,"imgUrl":"https://cdn.vpuniverse.com/monthly_2021_06/LNM.PNG.3846d1348118a9956ec109e9c8c65df7.PNG","broken":false}}]
+[
+  {
+    "action": "UPDATE",
+    "id": "ab90595ed5fa5776ad081c984025d3f6",
+    "data": {
+      "name": "Loch Ness Monster",
+      "id": "ab90595ed5fa5776ad081c984025d3f6",
+      "manufacturer": "Game Plan",
+      "year": 1985,
+      "MPU": "Game Plan MPU-2",
+      "theme": [],
+      "players": 4,
+      "designers": ["Joe Kaminkow", "Ed Cebula"],
+      "ipdbUrl": "https://www.ipdb.org/machine.cgi?id=1465",
+      "type": "SS",
+      "updatedAt": 1623016800000,
+      "tableFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=16083",
+              "broken": false
+            },
+            {
+              "url": "https://vpuniverse.com/forums/files/file/6599-game-plans-loch-ness-monster/"
+            }
+          ],
+          "theme": [],
+          "version": "1.0",
+          "authors": [
+            "Shannon1",
+            "Bord",
+            "Loserman76",
+            "GtxJoe",
+            "EalaDubSidhe"
+          ],
+          "updatedAt": 1629756000000,
+          "createdAt": 1623016800000,
+          "tableFormat": "VPX",
+          "imgUrl": "https://fraesh.github.io/vps-db/img/ab90595ed5fa5776ad081c984025d3f6_table_1638490246282.webp"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=15577",
+              "broken": false
+            }
+          ],
+          "theme": [],
+          "version": "1.0",
+          "authors": [
+            "Jino0372",
+            "Goldchicco",
+            "Roccodimarco",
+            "JPSalas",
+            "Ninuzzu"
+          ],
+          "updatedAt": 1617400800000,
+          "createdAt": 1617400800000,
+          "tableFormat": "VPX",
+          "imgUrl": "https://fraesh.github.io/vps-db/img/ab90595ed5fa5776ad081c984025d3f6_table_1638490294000.webp"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/loch-ness-monster-rayner-mod/",
+              "broken": true
+            }
+          ],
+          "theme": [],
+          "comment": "Rayner MOD - ED-62 Original Prototype",
+          "version": "1.0",
+          "authors": ["AdrianRayner", "Dave Sanders"],
+          "updatedAt": 1615590000000,
+          "createdAt": 1615590000000,
+          "tableFormat": "VPX",
+          "features": ["MOD"]
+        },
+        {
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/loch-ness-monster-game-plan-1985/",
+              "broken": true
+            }
+          ],
+          "theme": [],
+          "version": "WIP",
+          "authors": ["Goldchicco", "Roccodimarco", "Movieguru"],
+          "updatedAt": 1612825200000,
+          "createdAt": 1612825200000,
+          "tableFormat": "VPX"
+        }
+      ],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/loch-ness-monster-game-plan-1985-b2s/",
+              "broken": true
+            }
+          ],
+          "version": "1.0",
+          "authors": ["Fisch"],
+          "updatedAt": 1614726000000
+        }
+      ],
+      "features": ["VPX", "MOD", "B2S"],
+      "lastCreatedAt": 1623016800000,
+      "imgUrl": "https://cdn.vpuniverse.com/monthly_2021_06/LNM.PNG.3846d1348118a9956ec109e9c8c65df7.PNG",
+      "broken": false
+    }
+  },
+  {
+    "action": "UPDATE",
+    "id": "e094994c46de1d896e66143808a4da47",
+    "data": {
+      "name": "Galaxy Quest",
+      "id": "e094994c46de1d896e66143808a4da47",
+      "manufacturer": "Original",
+      "year": 2020,
+      "theme": ["Outer Space"],
+      "players": 4,
+      "designers": [],
+      "ipdbUrl": "Not Available",
+      "type": "SS",
+      "updatedAt": 1623362400000,
+      "tableFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://vpuniverse.com/forums/files/file/6123-galaxy-quest/",
+              "broken": false
+            }
+          ],
+          "theme": ["Outer Space"],
+          "comment": "Retheme of  JPSalas's Space Shuttle (Taito do Brasil 1984)",
+          "version": "1.0",
+          "authors": [
+            "Topper2k",
+            "JPSalas",
+            "DopePope",
+            "Icekazim",
+            "John Hoagland"
+          ],
+          "updatedAt": 1618264800000,
+          "createdAt": 1618264800000,
+          "tableFormat": "VPX",
+          "features": ["Music"],
+          "imgUrl": "https://fraesh.github.io/vps-db/img/e094994c46de1d896e66143808a4da47_table_1638093698207.webp"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://vpuniverse.com/forums/files/file/6124-galaxy-quest-pup-edition/",
+              "broken": false
+            }
+          ],
+          "theme": ["Outer Space"],
+          "comment": "PinUP Player Version - Retheme of  Pinball58's Space Shuttle (Williams 1984)",
+          "version": "1.1",
+          "authors": [
+            "Topper2k",
+            "Pinball58",
+            "PEandS1Ws",
+            "DopePope",
+            "Icekazim",
+            "John Hoagland"
+          ],
+          "updatedAt": 1618264800000,
+          "createdAt": 1623362400000,
+          "tableFormat": "VPX",
+          "features": ["Music", "incl. PuP", "incl. ROM"],
+          "imgUrl": "https://fraesh.github.io/vps-db/img/e094994c46de1d896e66143808a4da47_table_1638093698208.webp"
+        }
+      ],
+      "romFiles": [
+        {
+          "version": "sshuttle",
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=585",
+              "broken": false
+            }
+          ],
+          "authors": ["Destruk"],
+          "updatedAt": 1359327600000
+        }
+      ],
+      "pupPackFiles": [
+        {
+          "name": "Galaxy Quest - PinUP Player Version",
+          "version": "1.0",
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/galaxy-quest-pinup-player-version/",
+              "broken": true
+            }
+          ],
+          "authors": [
+            "Topper-2k",
+            "Zapsplat",
+            "DopePope",
+            "Icekazim",
+            "John Hoagland"
+          ],
+          "updatedAt": 1605913200000
+        }
+      ],
+      "wheelArtFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/galaxyquest-tarcisio-style-wheel/",
+              "broken": true
+            }
+          ],
+          "version": "1.0",
+          "authors": ["Freestlz"],
+          "updatedAt": 1596578400000
+        }
+      ],
+      "features": [
+        "Music",
+        "VPX",
+        "incl. PuP",
+        "incl. ROM",
+        "ROM",
+        "PuP",
+        "Wheel"
+      ],
+      "lastCreatedAt": 1623362400000,
+      "broken": false
+    }
+  },
+  {
+    "action": "UPDATE",
+    "id": "6e09e7e733a7c7a9a2e31234ef3237c7",
+    "data": {
+      "name": "The Mandalorian",
+      "id": "6e09e7e733a7c7a9a2e31234ef3237c7",
+      "manufacturer": "Original",
+      "year": 2020,
+      "theme": ["Science-Fiction"],
+      "players": 4,
+      "designers": [],
+      "ipdbUrl": "Not Available",
+      "type": "SS",
+      "updatedAt": 1623621600000,
+      "tableFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://vpuniverse.com/forums/files/file/6656-the-mandalorian/"
+            }
+          ],
+          "theme": ["Science-Fiction"],
+          "comment": "Graphics MOD of Cybernaut (Bally 1985)",
+          "version": "1.1",
+          "authors": [
+            "Addestratore",
+            "IDigStuff",
+            "Mistermixer",
+            "William Hammond",
+            "HiRez00"
+          ],
+          "updatedAt": 1588543200000,
+          "createdAt": 1623621600000,
+          "tableFormat": "VPX",
+          "features": ["Music", "MOD", "incl. ROM", "incl. Art", "incl. B2S"],
+          "imgUrl": "https://fraesh.github.io/vps-db/img/6e09e7e733a7c7a9a2e31234ef3237c7_table_1638488152284.webp"
+        }
+      ],
+      "b2sFiles": [
+        {
+          "createdAt": 1638488259063,
+          "urls": [
+            {
+              "url": "https://vpuniverse.com/forums/files/file/6407-mandalorian-alternate-backglass/"
+            }
+          ],
+          "updatedAt": 1638488291189,
+          "version": "1.1",
+          "authors": ["Topper2k"],
+          "imgUrl": "https://cdn.vpuniverse.com/monthly_2021_06/backglass.jpg.c1f250226f3d2a6705d6ff0088e46110.jpg"
+        }
+      ],
+      "pupPackFiles": [
+        {
+          "createdAt": 1638488187295,
+          "updatedAt": 1638488191598,
+          "urls": [
+            {
+              "url": "https://vpuniverse.com/forums/files/file/7778-the-mandalorian-vpx-puppack/"
+            }
+          ],
+          "name": "1.0.0",
+          "authors": ["Hawkeyez88", "Hursty"]
+        }
+      ],
+      "wheelArtFiles": [
+        {
+          "createdAt": 1638488230401,
+          "updatedAt": 1638488239008,
+          "urls": [
+            {
+              "url": "https://vpuniverse.com/forums/files/file/7182-mandalorian-animated-wheel/"
+            }
+          ],
+          "name": "1.0.0",
+          "authors": ["Mitshiba"]
+        }
+      ],
+      "features": [
+        "Music",
+        "MOD",
+        "incl. ROM",
+        "incl. Art",
+        "incl. B2S",
+        "VPX",
+        "B2S",
+        "ROM",
+        "PuP",
+        "Wheel"
+      ],
+      "lastCreatedAt": 1623621600000,
+      "romFiles": [
+        {
+          "createdAt": 1638488531137,
+          "updatedAt": 1638488539653,
+          "name": "cybernaut"
+        }
+      ],
+      "broken": false
+    }
+  },
+  {
+    "action": "UPDATE",
+    "id": "559f9a675235da207a483b08268ae945",
+    "data": {
+      "name": "Dark Princess",
+      "id": "559f9a675235da207a483b08268ae945",
+      "manufacturer": "Original",
+      "year": 2020,
+      "theme": [],
+      "designers": [],
+      "ipdbUrl": "Not Available",
+      "type": "SS",
+      "updatedAt": 1638399600000,
+      "tableFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/darkprincess-original-2020/",
+              "broken": true
+            }
+          ],
+          "theme": [],
+          "version": "1.3.1",
+          "authors": ["FroggyCrew", "Mussinger", "Emperor312"],
+          "updatedAt": 1610578800000,
+          "createdAt": 1638399600000,
+          "tableFormat": "VPX",
+          "features": ["Music", "FlexDMD", "incl. B2S"],
+          "imgUrl": "https://fraesh.github.io/vps-db/img/559f9a675235da207a483b08268ae945_table_1638487225221.webp",
+          "comment": "Reupload"
+        }
+      ],
+      "wheelArtFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/dark-princess-wheel/",
+              "broken": true
+            }
+          ],
+          "version": "1.0",
+          "authors": ["Froggy-Crew"],
+          "updatedAt": 1640905200000
+        }
+      ],
+      "topperFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/dark-princess-fulldmd-topper-videos/",
+              "broken": true
+            }
+          ],
+          "version": "1.0.1",
+          "authors": ["Froggy-Crew"],
+          "updatedAt": 1609542000000
+        }
+      ],
+      "mediaPackFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/dark-princess-dmd-underlay/",
+              "broken": true
+            }
+          ],
+          "version": "Final",
+          "authors": ["Awalsh053"],
+          "updatedAt": 1609628400000
+        }
+      ],
+      "features": [
+        "Music",
+        "FlexDMD",
+        "incl. B2S",
+        "VPX",
+        "Wheel",
+        "MediaPack",
+        "Topper"
+      ],
+      "lastCreatedAt": 1638399600000,
+      "imgUrl": "",
+      "broken": false
+    }
+  }
+]
