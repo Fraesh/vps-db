@@ -110,13 +110,13 @@ const deleteGame = ({ id }) => {
 };
 
 const createGame = async ({ data }) => {
-  await getImages(data);
+  // await getImages(data);
   db.push(data);
   console.log(`CREATE ${data.name}-${data.year}-${data.manufacturer}`);
 };
 
 const updateGame = async ({ id, data }) => {
-  await getImages(data);
+  // await getImages(data);
   const index = db.findIndex((g) => g.id === id);
   if (index >= 0) {
     console.log(`UPDATE ${data.name}-${data.year}-${data.manufacturer}`);
