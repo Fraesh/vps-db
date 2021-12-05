@@ -13,6 +13,7 @@ const puppeteerDownload = async (url, fileName) => {
 
     const response = await page.goto(url, {
       waitUntil: "networkidle2",
+      timeout: 5000,
     });
     const file = await response.buffer();
     await sharp(file)
