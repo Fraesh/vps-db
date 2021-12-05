@@ -69,33 +69,31 @@ const getImages = async (el) => {
     }
   }
 
-  if (el.tableFiles) {
-    await Promise.all(
-      el.tableFiles?.map(async (tb) => {
-        if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github.io")) {
-          const fileName = `${el.id}_table_${new Date().getTime()}`;
-          const url = await download(tb.imgUrl, fileName);
-          if (url) {
-            console.log("ADDED NEW URL", url);
-            tb.imgUrl = url;
-          }
+  if (el.tableFiles?.length) {
+    for (let i = 0; i < el.tableFiles.length; i++) {
+      let tb = el.tableFiles[i];
+      if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github.io")) {
+        const fileName = `${el.id}_table_${new Date().getTime()}`;
+        const url = await download(tb.imgUrl, fileName);
+        if (url) {
+          console.log("ADDED NEW URL", url);
+          tb.imgUrl = url;
         }
-      })
-    );
+      }
+    }
   }
-  if (el.b2sFiles) {
-    await Promise.all(
-      el.b2sFiles?.map(async (tb) => {
-        if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
-          const fileName = `${el.id}_b2s_${new Date().getTime()}`;
-          const url = await download(tb.imgUrl, fileName);
-          if (url) {
-            console.log("ADDED NEW URL", url);
-            tb.imgUrl = url;
-          }
+  if (el.b2sFiles?.length) {
+    for (let i = 0; i < updates.length; i++) {
+      let tb = el.b2sFiles[i];
+      if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
+        const fileName = `${el.id}_b2s_${new Date().getTime()}`;
+        const url = await download(tb.imgUrl, fileName);
+        if (url) {
+          console.log("ADDED NEW URL", url);
+          tb.imgUrl = url;
         }
-      })
-    );
+      }
+    }
   }
 };
 
