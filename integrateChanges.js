@@ -84,7 +84,7 @@ const getImages = async (el) => {
     }
   }
   if (el.b2sFiles?.length) {
-    for (let i = 0; i < updates.length; i++) {
+    for (let i = 0; i < el.b2sFiles.length; i++) {
       let tb = el.b2sFiles[i];
       if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
         const fileName = `${el.id}_b2s_${new Date().getTime()}`;
