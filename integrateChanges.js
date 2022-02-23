@@ -1,102 +1,102 @@
 const updates = require("./lastUpdate.json");
 let db = require("./vpsdb.json");
 const fs = require("fs");
-const sharp = require("sharp");
-const { default: axios } = require("axios");
-const puppeteer = require("puppeteer");
+// const sharp = require("sharp");
+// const { default: axios } = require("axios");
+// const puppeteer = require("puppeteer");
 
-const puppeteerDownload = async (url, fileName) => {
-  console.log("PUPPETEER: ", url);
-  try {
-    const browser = await puppeteer.launch({ headless: false });
-    const page = await browser.newPage();
+// const puppeteerDownload = async (url, fileName) => {
+//   console.log("PUPPETEER: ", url);
+//   try {
+//     const browser = await puppeteer.launch({ headless: false });
+//     const page = await browser.newPage();
 
-    const response = await page.goto(url, {
-      waitUntil: "networkidle2",
-      timeout: 5000,
-    });
-    const file = await response.buffer();
-    await sharp(file)
-      .resize({ height: 700 })
-      .webp({ quality: 50, reductionEffort: 6 })
-      .toFile(`img/${fileName}.webp`, (err, info) => {
-        if (err) throw new Error();
-      });
-    await browser.close();
-    return true;
-  } catch (e) {
-    console.log("ERR: ", url);
-    return false;
-  }
-};
+//     const response = await page.goto(url, {
+//       waitUntil: "networkidle2",
+//       timeout: 5000,
+//     });
+//     const file = await response.buffer();
+//     await sharp(file)
+//       .resize({ height: 700 })
+//       .webp({ quality: 50, reductionEffort: 6 })
+//       .toFile(`img/${fileName}.webp`, (err, info) => {
+//         if (err) throw new Error();
+//       });
+//     await browser.close();
+//     return true;
+//   } catch (e) {
+//     console.log("ERR: ", url);
+//     return false;
+//   }
+// };
 
-const downloadAxios = async (url, fileName) => {
-  try {
-    console.log("AXIOS: ", url);
-    const buffer = await axios.get(url, { responseType: "arraybuffer" });
-    sharp(buffer.data)
-      .resize({ height: 700 })
-      .webp({ quality: 50, reductionEffort: 6 })
-      .toFile(`img/${fileName}.webp`, (err, info) => {
-        err && console.log(err);
-      });
-    return true;
-  } catch (e) {
-    console.log("ERR: ", url);
-    return false;
-  }
-};
+// const downloadAxios = async (url, fileName) => {
+//   try {
+//     console.log("AXIOS: ", url);
+//     const buffer = await axios.get(url, { responseType: "arraybuffer" });
+//     sharp(buffer.data)
+//       .resize({ height: 700 })
+//       .webp({ quality: 50, reductionEffort: 6 })
+//       .toFile(`img/${fileName}.webp`, (err, info) => {
+//         err && console.log(err);
+//       });
+//     return true;
+//   } catch (e) {
+//     console.log("ERR: ", url);
+//     return false;
+//   }
+// };
 
-const download = async (imgUrl, fileName) => {
-  let worked = await downloadAxios(imgUrl, fileName);
-  if (!worked) {
-    worked = await puppeteerDownload(imgUrl, fileName);
-  }
-  if (worked) {
-    console.log("SCRAPED IMG: ", fileName);
-    return `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
-  } else {
-    console.log("BOTH FAILED");
-  }
-};
+// const download = async (imgUrl, fileName) => {
+//   let worked = await downloadAxios(imgUrl, fileName);
+//   if (!worked) {
+//     worked = await puppeteerDownload(imgUrl, fileName);
+//   }
+//   if (worked) {
+//     console.log("SCRAPED IMG: ", fileName);
+//     return `https://fraesh.github.io/vps-db/img/${fileName}.webp`;
+//   } else {
+//     console.log("BOTH FAILED");
+//   }
+// };
 
-const getImages = async (el) => {
-  if (el.imgUrl && !el.imgUrl.includes("fraesh.github.io")) {
-    const fileName = `${el.id}_cover_${new Date().getTime()}`;
-    const url = await download(el.imgUrl, fileName);
-    if (url) {
-      console.log("ADDED NEW URL", url);
-      el.imgUrl = url;
-    }
-  }
+// const getImages = async (el) => {
+//   if (el.imgUrl && !el.imgUrl.includes("fraesh.github.io")) {
+//     const fileName = `${el.id}_cover_${new Date().getTime()}`;
+//     const url = await download(el.imgUrl, fileName);
+//     if (url) {
+//       console.log("ADDED NEW URL", url);
+//       el.imgUrl = url;
+//     }
+//   }
 
-  if (el.tableFiles?.length) {
-    for (let i = 0; i < el.tableFiles.length; i++) {
-      let tb = el.tableFiles[i];
-      if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github.io")) {
-        const fileName = `${el.id}_table_${new Date().getTime()}`;
-        const url = await download(tb.imgUrl, fileName);
-        if (url) {
-          console.log("ADDED NEW URL", url);
-          tb.imgUrl = url;
-        }
-      }
-    }
-  }
-  if (el.b2sFiles?.length) {
-    for (let i = 0; i < el.b2sFiles.length; i++) {
-      let tb = el.b2sFiles[i];
-      if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
-        const fileName = `${el.id}_b2s_${new Date().getTime()}`;
-        const url = await download(tb.imgUrl, fileName);
-        if (url) {
-          console.log("ADDED NEW URL", url);
-          tb.imgUrl = url;
-        }
-      }
-    }
-  }
-};
+//   if (el.tableFiles?.length) {
+//     for (let i = 0; i < el.tableFiles.length; i++) {
+//       let tb = el.tableFiles[i];
+//       if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github.io")) {
+//         const fileName = `${el.id}_table_${new Date().getTime()}`;
+//         const url = await download(tb.imgUrl, fileName);
+//         if (url) {
+//           console.log("ADDED NEW URL", url);
+//           tb.imgUrl = url;
+//         }
+//       }
+//     }
+//   }
+//   if (el.b2sFiles?.length) {
+//     for (let i = 0; i < el.b2sFiles.length; i++) {
+//       let tb = el.b2sFiles[i];
+//       if (tb.imgUrl && !tb.imgUrl.includes("fraesh.github")) {
+//         const fileName = `${el.id}_b2s_${new Date().getTime()}`;
+//         const url = await download(tb.imgUrl, fileName);
+//         if (url) {
+//           console.log("ADDED NEW URL", url);
+//           tb.imgUrl = url;
+//         }
+//       }
+//     }
+//   }
+// };
 
 // UPDATE DATABASE
 
