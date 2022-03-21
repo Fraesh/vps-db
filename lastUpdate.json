@@ -1,10 +1,10 @@
 [
   {
     "action": "CREATE",
-    "id": "agssuawQ",
+    "id": "amr2w7e1",
     "data": {
       "name": "Adventure Land",
-      "id": "agssuawQ",
+      "id": "amr2w7e1",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Carnival & Legends",
@@ -14,8 +14,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "PdHIxzAW",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "N1bmgzPL",
           "theme": ["Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "Amusement_Park",
@@ -30,10 +30,10 @@
   },
   {
     "action": "CREATE",
-    "id": "1RrQ_H8F",
+    "id": "l2Tdhjfx",
     "data": {
       "name": "Alien Isolation Pinball",
-      "id": "1RrQ_H8F",
+      "id": "l2Tdhjfx",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Aliens vs. Pinball",
@@ -43,8 +43,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "OepFcJOE",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "56JKbcUh",
           "theme": ["Licensed Theme", "Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Alien_Isolation",
@@ -59,10 +59,10 @@
   },
   {
     "action": "CREATE",
-    "id": "COFi1KLF",
+    "id": "7oWJb4mA",
     "data": {
       "name": "Alien vs Predator Pinball",
-      "id": "COFi1KLF",
+      "id": "7oWJb4mA",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Aliens vs. Pinball",
@@ -72,8 +72,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "KV2xI1O8",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "mhywCzUv",
           "theme": ["Licensed Theme", "Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Alien_vs_Predator",
@@ -88,10 +88,10 @@
   },
   {
     "action": "CREATE",
-    "id": "NnxVBCf_",
+    "id": "jpVTREmk",
     "data": {
       "name": "Aliens Pinball",
-      "id": "NnxVBCf_",
+      "id": "jpVTREmk",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Aliens vs. Pinball",
@@ -101,8 +101,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "sPki8lFh",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "0YoTOdP8",
           "theme": ["Licensed Theme", "Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Aliens",
@@ -117,10 +117,10 @@
   },
   {
     "action": "CREATE",
-    "id": "OAytjQYu",
+    "id": "DubHwfUh",
     "data": {
       "name": "American Dad! Pinball",
-      "id": "OAytjQYu",
+      "id": "DubHwfUh",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Balls of Glory Pinball",
@@ -130,8 +130,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "CUJRTb2M",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "K6XXlLEd",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "AmericanDad",
@@ -146,10 +146,10 @@
   },
   {
     "action": "CREATE",
-    "id": "z-KcdKXy",
+    "id": "QkXysJcf",
     "data": {
       "name": "Archer Pinball",
-      "id": "z-KcdKXy",
+      "id": "QkXysJcf",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Balls of Glory Pinball",
@@ -159,8 +159,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "zmG98-A3",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "4USjCTq4",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "Archer",
@@ -398,8 +398,8 @@
           "id": "WjnYgf_s"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "VMuaGA6t",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "g5VjLKaq",
           "theme": ["Aliens", "Martians", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Attack_From_Mars",
@@ -602,10 +602,10 @@
   },
   {
     "action": "CREATE",
-    "id": "GZuDVAWB",
+    "id": "vx9nSgIf",
     "data": {
       "name": "Back to the Future Pinball",
-      "id": "GZuDVAWB",
+      "id": "vx9nSgIf",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Universal Classics Pinball",
@@ -615,8 +615,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "VfhK-Bvf",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "_YddX2W8",
           "theme": ["Licensed Theme", "Science Fiction", "Time Travel"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_BTTF",
@@ -631,10 +631,10 @@
   },
   {
     "action": "CREATE",
-    "id": "Ur3n9ueY",
+    "id": "oyyDB-7f",
     "data": {
       "name": "Biolab",
-      "id": "Ur3n9ueY",
+      "id": "oyyDB-7f",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Core Collection Pack",
@@ -644,8 +644,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "ljA7KPei",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "08K0Gg0Q",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "BioLab",
@@ -762,8 +762,8 @@
           "id": "BqhQV-9X"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "pfJ2tvry",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "84ztPIqe",
           "theme": ["Fantasy", "Pirates", "Fictional"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_BlackRose",
@@ -907,10 +907,10 @@
   },
   {
     "action": "CREATE",
-    "id": "DmG5Yw4a",
+    "id": "9sHiqEww",
     "data": {
       "name": "Blade",
-      "id": "DmG5Yw4a",
+      "id": "9sHiqEww",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Original Pack",
@@ -920,8 +920,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "q5SUs4Ky",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "2XMYY7pD",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Blade",
@@ -936,10 +936,10 @@
   },
   {
     "action": "CREATE",
-    "id": "-PVSeQCh",
+    "id": "aU98NNCS",
     "data": {
       "name": "Bob's Burgers Pinball",
-      "id": "-PVSeQCh",
+      "id": "aU98NNCS",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Balls of Glory Pinball",
@@ -949,8 +949,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "jHbVPa0D",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "OxUs32t0",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "BobsBurgers",
@@ -965,10 +965,10 @@
   },
   {
     "action": "CREATE",
-    "id": "hHaOckyu",
+    "id": "ItWyEZNF",
     "data": {
       "name": "Captain America",
-      "id": "hHaOckyu",
+      "id": "ItWyEZNF",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Marvel Legends Pack",
@@ -978,8 +978,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "jBuuwJb4",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "ThqpZ2Fq",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_CaptainAmerica",
@@ -994,10 +994,10 @@
   },
   {
     "action": "CREATE",
-    "id": "L0N_Yr7N",
+    "id": "B76Tu3Uu",
     "data": {
       "name": "Castle Storm",
-      "id": "L0N_Yr7N",
+      "id": "B76Tu3Uu",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Iron & Steel Pack",
@@ -1007,8 +1007,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "XBlAvOx5",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "gNx26Dhj",
           "theme": ["Medieval"],
           "authors": ["Zen Studios"],
           "gameFileName": "CastleStorm",
@@ -1135,8 +1135,8 @@
           "id": "cSKS2UMd"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "BGmIlzbo",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "Qb2TCIP9",
           "theme": ["Circus", "Carnival"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Cirqus_Voltaire",
@@ -1310,10 +1310,10 @@
   },
   {
     "action": "CREATE",
-    "id": "UYCTaZJS",
+    "id": "k7eSuMP7",
     "data": {
       "name": "Civil War",
-      "id": "UYCTaZJS",
+      "id": "k7eSuMP7",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Heavy Hitters",
@@ -1323,8 +1323,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "yIEpL6gQ",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "YpeOnqBM",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_CivilWar",
@@ -1476,8 +1476,8 @@
           "id": "LZg9YHhG"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "Pw1yIPm8",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "LGrhhiC4",
           "theme": ["Horror", "Licensed Theme"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Creature_from_the_Black_Lagoon",
@@ -1680,10 +1680,10 @@
   },
   {
     "action": "CREATE",
-    "id": "K1KwUmL3",
+    "id": "VqWCZz6j",
     "data": {
       "name": "Deadpool",
-      "id": "K1KwUmL3",
+      "id": "VqWCZz6j",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Heavy Hitters",
@@ -1693,8 +1693,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "C8sXOwhY",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "59oBYFAE",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Deadpool",
@@ -1709,10 +1709,10 @@
   },
   {
     "action": "CREATE",
-    "id": "xXvllwCo",
+    "id": "SC8_fpUL",
     "data": {
       "name": "Doctor Strange",
-      "id": "xXvllwCo",
+      "id": "SC8_fpUL",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Marvel Legends Pack",
@@ -1722,8 +1722,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "atE2mb5R",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "H-25K292",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_DrStrange",
@@ -1738,10 +1738,10 @@
   },
   {
     "action": "CREATE",
-    "id": "0dpg0-zc",
+    "id": "piyrtImS",
     "data": {
       "name": "Doom Pinball",
-      "id": "0dpg0-zc",
+      "id": "piyrtImS",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Bethesda Pinball",
@@ -1751,8 +1751,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "TbEpKV47",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "Lt_wMtqn",
           "theme": ["Licensed Theme", "Game"],
           "authors": ["Zen Studios"],
           "gameFileName": "BETHESDA_Doom",
@@ -1826,8 +1826,8 @@
           "id": "YSh_n9Vg"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "KP9NKj8r",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "MysFwwCK",
           "theme": ["Celebrities", "Fictional"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Dr_Dude",
@@ -1960,10 +1960,10 @@
   },
   {
     "action": "CREATE",
-    "id": "OVBgfcrg",
+    "id": "Ph6VV9nE",
     "data": {
       "name": "E.T. Pinball",
-      "id": "OVBgfcrg",
+      "id": "Ph6VV9nE",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Universal Classics Pinball",
@@ -1973,8 +1973,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "zKqQLDVP",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "uRA0aC6L",
           "theme": ["Licensed Theme", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_ET",
@@ -1989,10 +1989,10 @@
   },
   {
     "action": "CREATE",
-    "id": "lcxVkgZX",
+    "id": "SD285xpT",
     "data": {
       "name": "Earth Defense",
-      "id": "lcxVkgZX",
+      "id": "SD285xpT",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Sci-Fi Pack",
@@ -2002,8 +2002,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "6IxFsxiB",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "1ZniHVY5",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "EarthDefense",
@@ -2018,10 +2018,10 @@
   },
   {
     "action": "CREATE",
-    "id": "jyhyFu4h",
+    "id": "KdSVQ7Yw",
     "data": {
       "name": "El Dorado",
-      "id": "jyhyFu4h",
+      "id": "KdSVQ7Yw",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Zen Classics Pack",
@@ -2031,8 +2031,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "FKcYj5yp",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "MIuOhJN-",
           "theme": ["Legends"],
           "authors": ["Zen Studios"],
           "gameFileName": "Eldorado",
@@ -2047,10 +2047,10 @@
   },
   {
     "action": "CREATE",
-    "id": "g0VykG93",
+    "id": "EOKGQUAY",
     "data": {
       "name": "Epic Quest",
-      "id": "g0VykG93",
+      "id": "EOKGQUAY",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Medieval Pack",
@@ -2060,8 +2060,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "Wz4MYFlY",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "OdzwCCWx",
           "theme": ["Medieval"],
           "authors": ["Zen Studios"],
           "gameFileName": "Looter",
@@ -2076,10 +2076,10 @@
   },
   {
     "action": "CREATE",
-    "id": "02LQcOnp",
+    "id": "AEMCPGsf",
     "data": {
       "name": "Excalibur",
-      "id": "02LQcOnp",
+      "id": "AEMCPGsf",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Medieval Pack",
@@ -2089,8 +2089,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "nAf5wFWj",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "b9Zi_bhv",
           "theme": ["Medieval"],
           "authors": ["Zen Studios"],
           "gameFileName": "Excalibur",
@@ -2105,10 +2105,10 @@
   },
   {
     "action": "CREATE",
-    "id": "y23y8liN",
+    "id": "TL_JEinm",
     "data": {
       "name": "Fallout Pinball",
-      "id": "y23y8liN",
+      "id": "TL_JEinm",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Bethesda Pinball",
@@ -2118,8 +2118,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "3PkTXav_",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "RulmWuZE",
           "theme": ["Licensed Theme", "Game"],
           "authors": ["Zen Studios"],
           "gameFileName": "BETHESDA_Fallout",
@@ -2134,10 +2134,10 @@
   },
   {
     "action": "CREATE",
-    "id": "SbW4dDHf",
+    "id": "nspVXvl4",
     "data": {
       "name": "Family Guy Pinball",
-      "id": "SbW4dDHf",
+      "id": "nspVXvl4",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Balls of Glory Pinball",
@@ -2147,8 +2147,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "qemv26rg",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "p32Cvu_J",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "FamilyGuy",
@@ -2163,10 +2163,10 @@
   },
   {
     "action": "CREATE",
-    "id": "3YFZNsMk",
+    "id": "q0LxlIBb",
     "data": {
       "name": "Fantastic Four",
-      "id": "3YFZNsMk",
+      "id": "q0LxlIBb",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Marvel Legends Pack",
@@ -2176,8 +2176,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "84RkkPlB",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "KYOXkqAM",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_FantasticFour",
@@ -2192,10 +2192,10 @@
   },
   {
     "action": "CREATE",
-    "id": "ZOGmHoZY",
+    "id": "lvXywWuT",
     "data": {
       "name": "Fear Itself",
-      "id": "ZOGmHoZY",
+      "id": "lvXywWuT",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Avengers Chronicles",
@@ -2205,8 +2205,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "lDUpVbSe",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "GjC_Cx6M",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_FearItSelf",
@@ -2348,8 +2348,8 @@
           "id": "QuXlciw7"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "mm2X5BEk",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "EypYWbWC",
           "theme": ["Sports", "Fishing"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Fish_Tales",
@@ -2585,8 +2585,8 @@
           "id": "rLPfSNjW"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "SgTl0DiV",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "ZfoetDdS",
           "theme": ["Happiness", "Circus", "Carnival"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Funhouse",
@@ -2757,10 +2757,10 @@
   },
   {
     "action": "CREATE",
-    "id": "ikX5-Nyg",
+    "id": "lA5zhw-R",
     "data": {
       "name": "Ghost Rider",
-      "id": "ikX5-Nyg",
+      "id": "lA5zhw-R",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Vengeance and Virtue",
@@ -2770,8 +2770,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "xcPGQ30-",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "6vNHnR2K",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_GhostRider",
@@ -2786,10 +2786,10 @@
   },
   {
     "action": "CREATE",
-    "id": "qp7tN1GW",
+    "id": "ve28eCXm",
     "data": {
       "name": "Guardians of the Galaxy",
-      "id": "qp7tN1GW",
+      "id": "ve28eCXm",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Cinematic Pack",
@@ -2799,8 +2799,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "JM5GeViU",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "m_yhws2L",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Guardians",
@@ -2901,8 +2901,8 @@
           "id": "9El3-2qk"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "NWnuaN-1",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "10ewm1PC",
           "theme": ["Happiness", "Circus", "Carnival"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Hurricane",
@@ -3123,8 +3123,8 @@
           "id": "NOWLCLsm"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "uT1HhKdd",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "Zhs3EqH5",
           "theme": ["Adventure", "Fictional", "Licensed Theme"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Indiana_Jones",
@@ -3307,10 +3307,10 @@
   },
   {
     "action": "CREATE",
-    "id": "3xaf6Zvi",
+    "id": "ELf_iVHi",
     "data": {
       "name": "Iron Man",
-      "id": "3xaf6Zvi",
+      "id": "ELf_iVHi",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Original Pack",
@@ -3320,8 +3320,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "QG4S4r-P",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "_nppMpsl",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_IronMan",
@@ -3336,10 +3336,10 @@
   },
   {
     "action": "CREATE",
-    "id": "EL7XwPh2",
+    "id": "NN2Ha5IR",
     "data": {
       "name": "Jaws Pinball",
-      "id": "EL7XwPh2",
+      "id": "NN2Ha5IR",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Universal Classics Pinball",
@@ -3349,8 +3349,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "jOJQmnhu",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "DmyF54ZA",
           "theme": ["Licensed Theme", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_Jaws",
@@ -3419,8 +3419,8 @@
           "id": "KaV1f7u3"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "x6-Gv1mw",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "dp_8nDxu",
           "theme": ["Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Junkyard",
@@ -3509,10 +3509,10 @@
   },
   {
     "action": "CREATE",
-    "id": "ShpPhPbi",
+    "id": "ZMTIFZXV",
     "data": {
       "name": "Jurassic Park Pinball",
-      "id": "ShpPhPbi",
+      "id": "ZMTIFZXV",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Jurassic World Pinball",
@@ -3522,8 +3522,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "vQGW2lF6",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "EkuohUny",
           "theme": ["Licensed Theme", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_Jurassic_Park",
@@ -3538,10 +3538,10 @@
   },
   {
     "action": "CREATE",
-    "id": "FQu5hCa5",
+    "id": "v0mF7yUt",
     "data": {
       "name": "Jurassic Park Pinball Mayhem",
-      "id": "FQu5hCa5",
+      "id": "v0mF7yUt",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Jurassic World Pinball",
@@ -3551,8 +3551,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "mUX1Rznn",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "KkAo6ueQ",
           "theme": ["Licensed Theme", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_Jurassic_Theme_Park",
@@ -3567,10 +3567,10 @@
   },
   {
     "action": "CREATE",
-    "id": "ECCCUD4N",
+    "id": "NwvfpAbZ",
     "data": {
       "name": "Jurassic World Pinball",
-      "id": "ECCCUD4N",
+      "id": "NwvfpAbZ",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Jurassic World Pinball",
@@ -3580,8 +3580,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "cn3GDoKt",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "deZ9o8LQ",
           "theme": ["Licensed Theme", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_Jurassic_World",
@@ -3596,10 +3596,10 @@
   },
   {
     "action": "CREATE",
-    "id": "QwhRIV20",
+    "id": "pDiOVvwD",
     "data": {
       "name": "Mars",
-      "id": "QwhRIV20",
+      "id": "pDiOVvwD",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Sci-Fi Pack",
@@ -3609,8 +3609,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "28S643Kq",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "G85Qzjfu",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Nars",
@@ -3625,10 +3625,10 @@
   },
   {
     "action": "CREATE",
-    "id": "qzgPE5Ra",
+    "id": "nYFN4i6m",
     "data": {
       "name": "Marvel's Ant-Man",
-      "id": "qzgPE5Ra",
+      "id": "nYFN4i6m",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Marvel Pinball Cinematic Pack",
@@ -3638,8 +3638,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "RjnPV1ZO",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "wILgn47X",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Ant-Man",
@@ -3654,10 +3654,10 @@
   },
   {
     "action": "CREATE",
-    "id": "TBIF376W",
+    "id": "fgc6JoJT",
     "data": {
       "name": "Marvel's Avengers Age of Ultron",
-      "id": "TBIF376W",
+      "id": "fgc6JoJT",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Marvel Pinball Cinematic Pack",
@@ -3667,8 +3667,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "sCusIxUv",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "_vkmPXjU",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Age_of_Ultron",
@@ -3683,10 +3683,10 @@
   },
   {
     "action": "CREATE",
-    "id": "-BS60sm0",
+    "id": "WcOR2p36",
     "data": {
       "name": "Marvel's The Avengers",
-      "id": "-BS60sm0",
+      "id": "WcOR2p36",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Avengers Chronicles",
@@ -3696,8 +3696,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "m_7_Y-4R",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "gcrpR3bl",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Avengers",
@@ -3712,10 +3712,10 @@
   },
   {
     "action": "CREATE",
-    "id": "c5MOvPhJ",
+    "id": "68S86O3k",
     "data": {
       "name": "Marvel's Women of Power A-Force",
-      "id": "c5MOvPhJ",
+      "id": "68S86O3k",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Marvel Pinball Marvel's Women of Power",
@@ -3725,8 +3725,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "tcthylju",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "p-akPXOk",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_MsMarvel",
@@ -3741,10 +3741,10 @@
   },
   {
     "action": "CREATE",
-    "id": "_ZujdMFx",
+    "id": "2uwDxjWu",
     "data": {
       "name": "Marvel's Women of Power Champions",
-      "id": "_ZujdMFx",
+      "id": "2uwDxjWu",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Marvel Pinball Marvel's Women of Power",
@@ -3754,8 +3754,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "34MTPQgm",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "8Yei8Qrv",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_WOP_TheNextGeneration",
@@ -3904,8 +3904,8 @@
           "id": "tukTr13P"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "uDexzo86",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "HvmJbIMO",
           "theme": ["Fantasy", "Medieval", "Wizards", "Magic"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Medieval_Madness",
@@ -4282,8 +4282,8 @@
           "id": "p05pPypw"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "H33WseuU",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "4Ew7wqnh",
           "theme": ["Horror", "Licensed Theme"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Monster_Bash",
@@ -4472,10 +4472,10 @@
   },
   {
     "action": "CREATE",
-    "id": "bJ5a3wwS",
+    "id": "VRa2q2Xw",
     "data": {
       "name": "Moon Knight",
-      "id": "bJ5a3wwS",
+      "id": "VRa2q2Xw",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Vengeance and Virtue",
@@ -4485,8 +4485,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "Nnu7EQdW",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "8KcgfduV",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_MoonKnight",
@@ -4501,10 +4501,10 @@
   },
   {
     "action": "CREATE",
-    "id": "QQ_PuTS0",
+    "id": "v1iAdAVt",
     "data": {
       "name": "Ms. Splosion Man",
-      "id": "QQ_PuTS0",
+      "id": "v1iAdAVt",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Pinball FX2",
@@ -4514,8 +4514,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "wrZIWHy2",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "GEzEA3Jp",
           "theme": ["Licensed Theme"],
           "authors": ["Zen Studios"],
           "gameFileName": "Splosionman",
@@ -4602,8 +4602,8 @@
           "id": "gTQ_f_Z8"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "8ctwRGrn",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "SqoVqZO-",
           "theme": ["Sports", "Golf"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_No_Good_Gofers",
@@ -4740,10 +4740,10 @@
   },
   {
     "action": "CREATE",
-    "id": "nWORxG9P",
+    "id": "10qlv6cD",
     "data": {
       "name": "Paranormal",
-      "id": "nWORxG9P",
+      "id": "10qlv6cD",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Sci-Fi Pack",
@@ -4753,8 +4753,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "-dm88ZqB",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "C18-7PX1",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Paranormal",
@@ -4769,10 +4769,10 @@
   },
   {
     "action": "CREATE",
-    "id": "WtlZKrvi",
+    "id": "A89NeTvt",
     "data": {
       "name": "Pasha",
-      "id": "WtlZKrvi",
+      "id": "A89NeTvt",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Core Collection Pack",
@@ -4782,8 +4782,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "4r-hm8XG",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "-KoRwsQQ",
           "theme": ["Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "Pasha",
@@ -4798,10 +4798,10 @@
   },
   {
     "action": "CREATE",
-    "id": "W4KNKD27",
+    "id": "otBbsoP1",
     "data": {
       "name": "Plants vs. Zombies",
-      "id": "W4KNKD27",
+      "id": "otBbsoP1",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "theme": ["Licensed Theme"],
@@ -4810,8 +4810,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "A1QdseDO",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "mzOXy2z5",
           "theme": ["Licensed Theme"],
           "authors": ["Zen Studios"],
           "gameFileName": "plantsvszombies",
@@ -4826,10 +4826,10 @@
   },
   {
     "action": "CREATE",
-    "id": "Kn-21hQJ",
+    "id": "rSg90M6m",
     "data": {
       "name": "Portal",
-      "id": "Kn-21hQJ",
+      "id": "rSg90M6m",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Portal Pinball",
@@ -4839,8 +4839,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "kMZWtAE1",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "1WNsdEdC",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Portal",
@@ -4944,8 +4944,8 @@
           ]
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "bPYGQ_pr",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "Qkx6BNM4",
           "theme": ["Travel"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Roadshow",
@@ -5064,10 +5064,10 @@
   },
   {
     "action": "CREATE",
-    "id": "pHb017Kq",
+    "id": "BJw02c8S",
     "data": {
       "name": "Rome",
-      "id": "pHb017Kq",
+      "id": "BJw02c8S",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Core Collection Pack",
@@ -5077,8 +5077,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "29Q5drO4",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "UjleWxZc",
           "theme": ["Legends"],
           "authors": ["Zen Studios"],
           "gameFileName": "Rome",
@@ -5162,8 +5162,8 @@
           "id": "CB1vT03d"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "mxa5B0y7",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "9PpzqkoY",
           "theme": ["Cops and Robbers", "Money"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Safe_Cracker",
@@ -5285,10 +5285,10 @@
   },
   {
     "action": "CREATE",
-    "id": "89_hS9fa",
+    "id": "4e8pcqcG",
     "data": {
       "name": "Secrets of the Deep",
-      "id": "89_hS9fa",
+      "id": "4e8pcqcG",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Core Collection Pack",
@@ -5298,8 +5298,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "pIT-3Cj6",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "VJYzMm4h",
           "theme": ["Legends"],
           "authors": ["Zen Studios"],
           "gameFileName": "Atlantis",
@@ -5314,10 +5314,10 @@
   },
   {
     "action": "CREATE",
-    "id": "PQiLcu91",
+    "id": "Xsi_RGr9",
     "data": {
       "name": "Shaman",
-      "id": "PQiLcu91",
+      "id": "Xsi_RGr9",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Zen Classics Pack",
@@ -5327,8 +5327,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "hi0yQ9hr",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "R7zyMkvY",
           "theme": ["Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "Shaman",
@@ -5343,10 +5343,10 @@
   },
   {
     "action": "CREATE",
-    "id": "z3h4Ddt1",
+    "id": "azimEh0H",
     "data": {
       "name": "Son of Zeus",
-      "id": "z3h4Ddt1",
+      "id": "azimEh0H",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Carnival & Legends",
@@ -5356,8 +5356,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "bnj7bV9t",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "rWmieIbn",
           "theme": ["Legends"],
           "authors": ["Zen Studios"],
           "gameFileName": "Hercules",
@@ -5372,10 +5372,10 @@
   },
   {
     "action": "CREATE",
-    "id": "YYCR0cvu",
+    "id": "VisgBm1X",
     "data": {
       "name": "Sorcerer's Lair",
-      "id": "YYCR0cvu",
+      "id": "VisgBm1X",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Pinball FX2",
@@ -5385,8 +5385,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "cBXr7hNB",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "HHoORWdR",
           "theme": ["Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "Citadel",
@@ -5401,10 +5401,10 @@
   },
   {
     "action": "CREATE",
-    "id": "D-at3sW3",
+    "id": "uEXUyBef",
     "data": {
       "name": "South Park - Butters' Very Own Pinball Game",
-      "id": "D-at3sW3",
+      "id": "uEXUyBef",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "South Park Pinball 2 Table Pack",
@@ -5414,8 +5414,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "2aEb_1A7",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "3C2zz6N9",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "Southpark2",
@@ -5430,10 +5430,10 @@
   },
   {
     "action": "CREATE",
-    "id": "6iXNJyNU",
+    "id": "cF6rmPPJ",
     "data": {
       "name": "South Park - Super Sweet Pinball",
-      "id": "6iXNJyNU",
+      "id": "cF6rmPPJ",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "South Park Pinball 2 Table Pack",
@@ -5443,8 +5443,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "KxpZa28s",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "oEkhJMxm",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "Southpark1",
@@ -5491,8 +5491,8 @@
           "id": "qaIfSq9e"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "BGGzeEoQ",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "2GtjuQ4K",
           "theme": ["Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Space_Station",
@@ -5577,10 +5577,10 @@
   },
   {
     "action": "CREATE",
-    "id": "wKHaGoB3",
+    "id": "EzU7dMv4",
     "data": {
       "name": "Spider-Man",
-      "id": "wKHaGoB3",
+      "id": "EzU7dMv4",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Original Pack",
@@ -5590,8 +5590,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "VmSQ3Awj",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "sdZQCcXC",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_SpiderMan",
@@ -5606,10 +5606,10 @@
   },
   {
     "action": "CREATE",
-    "id": "jR3Qly-B",
+    "id": "O9Rbjw_5",
     "data": {
       "name": "Star Wars Pinball - Ahch-To Island",
-      "id": "jR3Qly-B",
+      "id": "O9Rbjw_5",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Star Wars Pinball The Last Jedi",
@@ -5619,8 +5619,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "lQQ_juPx",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "ISIhxoMN",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "SpaceBear2",
@@ -5635,10 +5635,10 @@
   },
   {
     "action": "CREATE",
-    "id": "egV5ErGV",
+    "id": "J_2FCAZw",
     "data": {
       "name": "Star Wars Pinball - Battle of Mimban War",
-      "id": "egV5ErGV",
+      "id": "J_2FCAZw",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Star Wars Pinball Solo Pack",
@@ -5648,8 +5648,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "y-4rTp3m",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "T5rdWfC_",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "RedCup3",
@@ -5664,10 +5664,10 @@
   },
   {
     "action": "CREATE",
-    "id": "LaV9PX5d",
+    "id": "2SHTsi2Q",
     "data": {
       "name": "Star Wars Pinball - Boba Fett",
-      "id": "LaV9PX5d",
+      "id": "2SHTsi2Q",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball",
@@ -5677,8 +5677,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "-ahiUqeL",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "6PBXC5Kf",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Boba_Fett",
@@ -5693,10 +5693,10 @@
   },
   {
     "action": "CREATE",
-    "id": "QPh-YVkV",
+    "id": "JSo7h5fM",
     "data": {
       "name": "Star Wars Pinball - Calrissian Chronicles",
-      "id": "QPh-YVkV",
+      "id": "JSo7h5fM",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Star Wars Pinball Solo Pack",
@@ -5706,8 +5706,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "PFX4ttI6",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "8rPue_ZO",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "RedCup2",
@@ -5722,10 +5722,10 @@
   },
   {
     "action": "CREATE",
-    "id": "qlz0v1fS",
+    "id": "qnbfK7F6",
     "data": {
       "name": "Star Wars Pinball - Darth Vader",
-      "id": "qlz0v1fS",
+      "id": "qnbfK7F6",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball Balance of the Force",
@@ -5735,8 +5735,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "8yjZ01ez",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "EfyUqkmR",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Darth_Vader",
@@ -5751,10 +5751,10 @@
   },
   {
     "action": "CREATE",
-    "id": "WLoJ3Sye",
+    "id": "8Xgs5pCr",
     "data": {
       "name": "Star Wars Pinball - Droids",
-      "id": "WLoJ3Sye",
+      "id": "8Xgs5pCr",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Star Wars Pinball Heroes Within",
@@ -5764,8 +5764,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "o3N_G2FL",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "rsBwgQ-b",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Droids",
@@ -5780,10 +5780,10 @@
   },
   {
     "action": "CREATE",
-    "id": "SOtN2yvO",
+    "id": "Lu_uc8S8",
     "data": {
       "name": "Star Wars Pinball - Episode IV A New Hope",
-      "id": "SOtN2yvO",
+      "id": "Lu_uc8S8",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Star Wars Pinball Heroes Within",
@@ -5793,8 +5793,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "p23pfeiU",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "C1K3Z48_",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Episode_4",
@@ -5809,10 +5809,10 @@
   },
   {
     "action": "CREATE",
-    "id": "Vjg4sYAK",
+    "id": "BDH3J_iV",
     "data": {
       "name": "Star Wars Pinball - Episode V The Empire Strikes Back",
-      "id": "Vjg4sYAK",
+      "id": "BDH3J_iV",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball",
@@ -5822,8 +5822,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "1B25fwll",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "crErTCto",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Episode_5",
@@ -5838,10 +5838,10 @@
   },
   {
     "action": "CREATE",
-    "id": "J_jqHXkb",
+    "id": "MqsZqnyN",
     "data": {
       "name": "Star Wars Pinball - Episode VI Return of the Jedi",
-      "id": "J_jqHXkb",
+      "id": "MqsZqnyN",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball Balance of the Force",
@@ -5851,8 +5851,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "xA5rj021",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "ZFO7kPeV",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Episode_6",
@@ -5867,10 +5867,10 @@
   },
   {
     "action": "CREATE",
-    "id": "6Uqa0x7t",
+    "id": "LAAWC18M",
     "data": {
       "name": "Star Wars Pinball - Han Solo",
-      "id": "6Uqa0x7t",
+      "id": "LAAWC18M",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Star Wars Pinball Heroes Within",
@@ -5880,8 +5880,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "Ur5-OjlJ",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "ItPME2Yu",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Han_Solo",
@@ -5896,10 +5896,10 @@
   },
   {
     "action": "CREATE",
-    "id": "ZsI0kNSN",
+    "id": "p8c_Iu9Y",
     "data": {
       "name": "Star Wars Pinball - Masters of the Force",
-      "id": "ZsI0kNSN",
+      "id": "p8c_Iu9Y",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Star Wars Pinball Heroes Within",
@@ -5909,8 +5909,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "2ywWHiFT",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "GYc_3alS",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Light_VS_Dark",
@@ -5925,10 +5925,10 @@
   },
   {
     "action": "CREATE",
-    "id": "CAdJSqL0",
+    "id": "kA2asWR0",
     "data": {
       "name": "Star Wars Pinball - Might of the First Order",
-      "id": "CAdJSqL0",
+      "id": "kA2asWR0",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Star Wars Pinball The Force Awakens Pack",
@@ -5938,8 +5938,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "AY7tFC0q",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "N_camzlP",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_AVCO2",
@@ -5954,10 +5954,10 @@
   },
   {
     "action": "CREATE",
-    "id": "OTA6BMKy",
+    "id": "5aG1CIJI",
     "data": {
       "name": "Star Wars Pinball - Rebels",
-      "id": "OTA6BMKy",
+      "id": "5aG1CIJI",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Star Wars Pinball Unsung Heroes",
@@ -5967,8 +5967,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "LmdAMUOE",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "JONrBVBZ",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Rebels",
@@ -5983,10 +5983,10 @@
   },
   {
     "action": "CREATE",
-    "id": "DJZL7i2z",
+    "id": "YTtpN9bo",
     "data": {
       "name": "Star Wars Pinball - Rogue One",
-      "id": "DJZL7i2z",
+      "id": "YTtpN9bo",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Star Wars Pinball Unsung Heroes",
@@ -5996,8 +5996,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "EIAWgBze",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "zRft8uma",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_LAPB",
@@ -6012,10 +6012,10 @@
   },
   {
     "action": "CREATE",
-    "id": "-jCrHrGV",
+    "id": "9Mpm-hKm",
     "data": {
       "name": "Star Wars Pinball - Solo",
-      "id": "-jCrHrGV",
+      "id": "9Mpm-hKm",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Star Wars Pinball Solo Pack",
@@ -6025,8 +6025,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "vYeZZIy8",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "xiXQjrBs",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "RedCup1",
@@ -6041,10 +6041,10 @@
   },
   {
     "action": "CREATE",
-    "id": "B-23Kay6",
+    "id": "EAIGFvpv",
     "data": {
       "name": "Star Wars Pinball - Starfighter Assault",
-      "id": "B-23Kay6",
+      "id": "EAIGFvpv",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball Balance of the Force",
@@ -6054,8 +6054,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "mI0VRGli",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "vO8zeNwr",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_SFA",
@@ -6070,10 +6070,10 @@
   },
   {
     "action": "CREATE",
-    "id": "vA7s0NjO",
+    "id": "ccIhaZFJ",
     "data": {
       "name": "Star Wars Pinball - The Clone Wars",
-      "id": "vA7s0NjO",
+      "id": "ccIhaZFJ",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball",
@@ -6083,8 +6083,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "ZrAeGn9W",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "s7AoEPLK",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_CloneWars",
@@ -6099,10 +6099,10 @@
   },
   {
     "action": "CREATE",
-    "id": "ibAnsAWA",
+    "id": "npDGPdsQ",
     "data": {
       "name": "Star Wars Pinball - The Last Jedi",
-      "id": "ibAnsAWA",
+      "id": "npDGPdsQ",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Star Wars Pinball The Last Jedi",
@@ -6112,8 +6112,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "bfn3Fq6H",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "TRYqr_Sc",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "SpaceBear1",
@@ -6128,10 +6128,10 @@
   },
   {
     "action": "CREATE",
-    "id": "Mziiotxz",
+    "id": "Nf14AYhB",
     "data": {
       "name": "Star Wars Pinball - VII The Force Awakens",
-      "id": "Mziiotxz",
+      "id": "Nf14AYhB",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Star Wars Pinball The Force Awakens Pack",
@@ -6141,8 +6141,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "T2VEdG4H",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "okYLfyPC",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Episode7",
@@ -6157,10 +6157,10 @@
   },
   {
     "action": "CREATE",
-    "id": "YTSs7K7S",
+    "id": "GkvpC5QO",
     "data": {
       "name": "Super League Football",
-      "id": "YTSs7K7S",
+      "id": "GkvpC5QO",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "theme": ["Sports", "Football"],
@@ -6169,8 +6169,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "l0O4unvp",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "ojxzHfTP",
           "theme": ["Sports", "Football"],
           "authors": ["Zen Studios"],
           "gameFileName": "Football",
@@ -6294,8 +6294,8 @@
           "id": "1PUvuvB0"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "99TL30i6",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "HhEd99mD",
           "theme": ["Fantasy", "Myth and Legend"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Tales_of_the_Arabian_Nights",
@@ -6415,10 +6415,10 @@
   },
   {
     "action": "CREATE",
-    "id": "oIR3lgm0",
+    "id": "8Y55uWml",
     "data": {
       "name": "Tesla",
-      "id": "oIR3lgm0",
+      "id": "8Y55uWml",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Zen Classics Pack",
@@ -6428,8 +6428,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "achL97dO",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "1686wDOh",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Tesla",
@@ -6493,8 +6493,8 @@
           "imgUrl": "https://fraesh.github.io/vps-db/img/2HPDN_tT_table_1647129277223.webp"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "741eVnZY",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "GiLh8zor",
           "theme": ["Sports", "Boxing"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Champion_Pub",
@@ -6629,10 +6629,10 @@
   },
   {
     "action": "CREATE",
-    "id": "7txE43MP",
+    "id": "1Zi8aHF6",
     "data": {
       "name": "The Elder Scrolls V Skyrim Pinball",
-      "id": "7txE43MP",
+      "id": "1Zi8aHF6",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Bethesda Pinball",
@@ -6642,8 +6642,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "PDJ-cuHU",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "cpYTdRlI",
           "theme": ["Licensed Theme", "Game"],
           "authors": ["Zen Studios"],
           "gameFileName": "BETHESDA_Skyrim",
@@ -6745,8 +6745,8 @@
           "imgUrl": "https://fraesh.github.io/vps-db/img/cCV4A6uc_table_1647129531795.webp"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "cOGNccSF",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "t-dCOv9q",
           "theme": ["Cops", "Driving", "Police", "Speeding"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Getaway",
@@ -6910,10 +6910,10 @@
   },
   {
     "action": "CREATE",
-    "id": "L4P0lnDI",
+    "id": "4W-CVBpp",
     "data": {
       "name": "The Infinity Gauntlet",
-      "id": "L4P0lnDI",
+      "id": "4W-CVBpp",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Avengers Chronicles",
@@ -6923,8 +6923,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "OslGANKX",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "HTGcBylB",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_InfinityGauntlet",
@@ -7026,8 +7026,8 @@
           "id": "VoLfIln2"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "0vTtp0hA",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "xAO2HoG4",
           "theme": ["Happiness"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Party_Zone",
@@ -7147,10 +7147,10 @@
   },
   {
     "action": "CREATE",
-    "id": "og4aCwKs",
+    "id": "0Grnr8ll",
     "data": {
       "name": "The Walking Dead",
-      "id": "og4aCwKs",
+      "id": "0Grnr8ll",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Telltale's The Walking Dead Pinball",
@@ -7160,8 +7160,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "mHQdfSH1",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "hvVVNHpj",
           "theme": ["Licensed Theme", "Supernatural", "Zombies"],
           "authors": ["Zen Studios"],
           "gameFileName": "TheWalkingDead",
@@ -7255,8 +7255,8 @@
           "id": "aJsXI04e"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "P2_PgTWw",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "pHghBbt-",
           "theme": ["Show Business", "Magic"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_TheatreOfMagic",
@@ -7407,10 +7407,10 @@
   },
   {
     "action": "CREATE",
-    "id": "Us_0A23W",
+    "id": "E06gMDR7",
     "data": {
       "name": "Thor",
-      "id": "Us_0A23W",
+      "id": "E06gMDR7",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Vengeance and Virtue",
@@ -7420,8 +7420,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "0B1-rSm3",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "xH5tviiY",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Thor",
@@ -7436,10 +7436,10 @@
   },
   {
     "action": "CREATE",
-    "id": "_HFRiL5b",
+    "id": "hgnep0Oo",
     "data": {
       "name": "V12",
-      "id": "_HFRiL5b",
+      "id": "hgnep0Oo",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Zen Classics Pack",
@@ -7449,8 +7449,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "E13BnrAj",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "x9ymcrlz",
           "theme": ["Driving", "Speeding"],
           "authors": ["Zen Studios"],
           "gameFileName": "V12",
@@ -7465,10 +7465,10 @@
   },
   {
     "action": "CREATE",
-    "id": "zm-wyGxP",
+    "id": "k313qIge",
     "data": {
       "name": "Venom",
-      "id": "zm-wyGxP",
+      "id": "k313qIge",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Heavy Hitters",
@@ -7478,8 +7478,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "GY3-nmRX",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "3eWngvdl",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Venom",
@@ -7596,8 +7596,8 @@
           "id": "--fspsKJ"
         },
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "a9idexgK",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "X6zpIoOQ",
           "theme": ["Rafting, Water Sports, Myth and Legend"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_White_Water",
@@ -7735,10 +7735,10 @@
   },
   {
     "action": "CREATE",
-    "id": "UlOKWJVB",
+    "id": "YfKHP8Wh",
     "data": {
       "name": "Wild West Rampage",
-      "id": "UlOKWJVB",
+      "id": "YfKHP8Wh",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Iron & Steel Pack",
@@ -7748,8 +7748,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "_8pKDdL5",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "N9FpWWgW",
           "theme": ["Cowboy", "Wild West"],
           "authors": ["Zen Studios"],
           "gameFileName": "Western",
@@ -7764,10 +7764,10 @@
   },
   {
     "action": "CREATE",
-    "id": "8DcOQfDl",
+    "id": "XH1b7wRb",
     "data": {
       "name": "Wolverine",
-      "id": "8DcOQfDl",
+      "id": "XH1b7wRb",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Original Pack",
@@ -7777,8 +7777,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "J6AApKs9",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "GVOKcK79",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Wolverine",
@@ -7793,10 +7793,10 @@
   },
   {
     "action": "CREATE",
-    "id": "DqDEHRqV",
+    "id": "6wm4L-Jh",
     "data": {
       "name": "World War Hulk",
-      "id": "DqDEHRqV",
+      "id": "6wm4L-Jh",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Avengers Chronicles",
@@ -7806,8 +7806,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "TwjIcYrn",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "yhWTv79k",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_WWH",
@@ -7822,10 +7822,10 @@
   },
   {
     "action": "CREATE",
-    "id": "fyh209N0",
+    "id": "IW2m9HFJ",
     "data": {
       "name": "X-men",
-      "id": "fyh209N0",
+      "id": "IW2m9HFJ",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Vengeance and Virtue",
@@ -7835,8 +7835,8 @@
       "updatedAt": 946681200000,
       "tableFiles": [
         {
-          "urls": [{ "url": "FX", "broken": false }],
-          "id": "El3vecrY",
+          "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
+          "id": "RDVwygN8",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_XMen",
