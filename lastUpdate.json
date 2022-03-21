@@ -1,10 +1,10 @@
 [
   {
     "action": "CREATE",
-    "id": "amr2w7e1",
+    "id": "IisAylS2",
     "data": {
       "name": "Adventure Land",
-      "id": "amr2w7e1",
+      "id": "IisAylS2",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Carnival & Legends",
@@ -15,7 +15,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "N1bmgzPL",
+          "id": "bYA3xjuh",
           "theme": ["Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "Amusement_Park",
@@ -24,16 +24,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13200",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1513724400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "l2Tdhjfx",
+    "id": "sO_RrYyX",
     "data": {
       "name": "Alien Isolation Pinball",
-      "id": "l2Tdhjfx",
+      "id": "sO_RrYyX",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Aliens vs. Pinball",
@@ -44,7 +58,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "56JKbcUh",
+          "id": "mMrnaVpK",
           "theme": ["Licensed Theme", "Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Alien_Isolation",
@@ -53,16 +67,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13056",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1514761200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "7oWJb4mA",
+    "id": "nocBs6Iu",
     "data": {
       "name": "Alien vs Predator Pinball",
-      "id": "7oWJb4mA",
+      "id": "nocBs6Iu",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Aliens vs. Pinball",
@@ -73,7 +101,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "mhywCzUv",
+          "id": "vM5fPJrC",
           "theme": ["Licensed Theme", "Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Alien_vs_Predator",
@@ -82,16 +110,49 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13022",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "pupPackFiles": [
+        {
+          "name": "Aliens vs Predator PuP-Pack",
+          "version": "1.1",
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/aliens-vs-predator-ssf-fx3-puppack-1-1/",
+              "broken": true
+            }
+          ],
+          "authors": [
+            "Pedropires1976",
+            "Nailbuster",
+            "TerryRed",
+            "Joe Picasso"
+          ],
+          "updatedAt": 1614812400000
+        }
+      ],
+      "features": ["FX3", "B2S", "PuP"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "jpVTREmk",
+    "id": "GNXfb2HW",
     "data": {
       "name": "Aliens Pinball",
-      "id": "jpVTREmk",
+      "id": "GNXfb2HW",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Aliens vs. Pinball",
@@ -102,7 +163,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "0YoTOdP8",
+          "id": "Zy4hSBsD",
           "theme": ["Licensed Theme", "Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Aliens",
@@ -111,16 +172,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13057",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "2",
+          "authors": ["DDH69"],
+          "updatedAt": 1513724400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "DubHwfUh",
+    "id": "wc2QMFRD",
     "data": {
       "name": "American Dad! Pinball",
-      "id": "DubHwfUh",
+      "id": "wc2QMFRD",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Balls of Glory Pinball",
@@ -131,7 +206,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "K6XXlLEd",
+          "id": "xfnLSrgD",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "AmericanDad",
@@ -140,16 +215,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/american-dad-fx3-animated-backglass/",
+              "broken": true
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["Pedropires1976"],
+          "updatedAt": 1615503600000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "QkXysJcf",
+    "id": "kyx3Helo",
     "data": {
       "name": "Archer Pinball",
-      "id": "QkXysJcf",
+      "id": "kyx3Helo",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Balls of Glory Pinball",
@@ -160,7 +249,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "4USjCTq4",
+          "id": "r1f-iEaI",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "Archer",
@@ -169,7 +258,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13020",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1501884000000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -399,7 +502,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "g5VjLKaq",
+          "id": "RZ228N1t",
           "theme": ["Aliens", "Martians", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Attack_From_Mars",
@@ -433,6 +536,18 @@
           "authors": ["G5k"],
           "updatedAt": 1559858400000,
           "id": "lxlMe_Y_"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13968",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1543964400000
         }
       ],
       "romFiles": [
@@ -585,6 +700,7 @@
         "SSF",
         "VPX",
         "MOD",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -602,10 +718,10 @@
   },
   {
     "action": "CREATE",
-    "id": "vx9nSgIf",
+    "id": "OLJJqhmH",
     "data": {
       "name": "Back to the Future Pinball",
-      "id": "vx9nSgIf",
+      "id": "OLJJqhmH",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Universal Classics Pinball",
@@ -616,7 +732,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "_YddX2W8",
+          "id": "VSp-ud62",
           "theme": ["Licensed Theme", "Science Fiction", "Time Travel"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_BTTF",
@@ -625,16 +741,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13292",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1514761200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "oyyDB-7f",
+    "id": "xBRVRUkm",
     "data": {
       "name": "Biolab",
-      "id": "oyyDB-7f",
+      "id": "xBRVRUkm",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Core Collection Pack",
@@ -645,7 +775,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "08K0Gg0Q",
+          "id": "FACUwLcD",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "BioLab",
@@ -654,7 +784,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13023",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1501970400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -763,7 +907,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "84ztPIqe",
+          "id": "USW-4L1A",
           "theme": ["Fantasy", "Pirates", "Fictional"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_BlackRose",
@@ -797,6 +941,18 @@
           "updatedAt": 1393455600000,
           "imgUrl": "https://fraesh.github.io/vps-db/img/2123d45ce5d7887bb786a1e59d771110_b2s_1638093708097.webp",
           "id": "WvjQ_anm"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13969",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1543964400000
         }
       ],
       "romFiles": [
@@ -883,14 +1039,14 @@
         "VR",
         "VPX",
         "FSS",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
         "Sound",
         "Wheel",
         "MediaPack",
-        "Topper",
-        "Rules"
+        "Topper"
       ],
       "lastCreatedAt": 1637624301730,
       "broken": false,
@@ -907,10 +1063,10 @@
   },
   {
     "action": "CREATE",
-    "id": "9sHiqEww",
+    "id": "SPr7u47N",
     "data": {
       "name": "Blade",
-      "id": "9sHiqEww",
+      "id": "SPr7u47N",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Original Pack",
@@ -921,7 +1077,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "2XMYY7pD",
+          "id": "YxfZF4b9",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Blade",
@@ -930,16 +1086,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13058",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "aU98NNCS",
+    "id": "nJT6s8UJ",
     "data": {
       "name": "Bob's Burgers Pinball",
-      "id": "aU98NNCS",
+      "id": "nJT6s8UJ",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Balls of Glory Pinball",
@@ -950,7 +1120,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "OxUs32t0",
+          "id": "chmo0utL",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "BobsBurgers",
@@ -959,16 +1129,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12954",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "ItWyEZNF",
+    "id": "ZmBDqqWq",
     "data": {
       "name": "Captain America",
-      "id": "ItWyEZNF",
+      "id": "ZmBDqqWq",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Marvel Legends Pack",
@@ -979,7 +1163,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "ThqpZ2Fq",
+          "id": "Dz_LUHPv",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_CaptainAmerica",
@@ -988,16 +1172,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13021",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "B76Tu3Uu",
+    "id": "hw8c55mW",
     "data": {
       "name": "Castle Storm",
-      "id": "B76Tu3Uu",
+      "id": "hw8c55mW",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Iron & Steel Pack",
@@ -1008,7 +1206,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "gNx26Dhj",
+          "id": "60h351PT",
           "theme": ["Medieval"],
           "authors": ["Zen Studios"],
           "gameFileName": "CastleStorm",
@@ -1017,7 +1215,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12955",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499378400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -1136,7 +1348,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "Qb2TCIP9",
+          "id": "YXT6zmZu",
           "theme": ["Circus", "Carnival"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Cirqus_Voltaire",
@@ -1293,6 +1505,7 @@
         "FSS",
         "MOD",
         "FastFlips",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -1310,10 +1523,10 @@
   },
   {
     "action": "CREATE",
-    "id": "k7eSuMP7",
+    "id": "lJZbvtXM",
     "data": {
       "name": "Civil War",
-      "id": "k7eSuMP7",
+      "id": "lJZbvtXM",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Heavy Hitters",
@@ -1324,7 +1537,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "YpeOnqBM",
+          "id": "kvhi2F1q",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_CivilWar",
@@ -1333,7 +1546,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13059",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -1477,7 +1704,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "LGrhhiC4",
+          "id": "_DRn8e8n",
           "theme": ["Horror", "Licensed Theme"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Creature_from_the_Black_Lagoon",
@@ -1662,6 +1889,7 @@
         "VR",
         "FastFlips",
         "FSS",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -1680,10 +1908,10 @@
   },
   {
     "action": "CREATE",
-    "id": "VqWCZz6j",
+    "id": "-bv6-HSX",
     "data": {
       "name": "Deadpool",
-      "id": "VqWCZz6j",
+      "id": "-bv6-HSX",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Heavy Hitters",
@@ -1694,7 +1922,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "59oBYFAE",
+          "id": "564hUGaz",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Deadpool",
@@ -1703,16 +1931,50 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13497",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1526162400000
+        }
+      ],
+      "pupPackFiles": [
+        {
+          "name": "Deadpool FX3 PuP-Pack with SSF",
+          "version": "1.0",
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/deadpool-fx3-pup-pack-with-ssf/",
+              "broken": true
+            }
+          ],
+          "authors": [
+            "Pedroperes02",
+            "Joey Beaulieu",
+            "John Memeo",
+            "NailBuster",
+            "TerryRed"
+          ],
+          "updatedAt": 1614985200000
+        }
+      ],
+      "features": ["FX3", "B2S", "PuP"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "SC8_fpUL",
+    "id": "ag17FVP8",
     "data": {
       "name": "Doctor Strange",
-      "id": "SC8_fpUL",
+      "id": "ag17FVP8",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Marvel Legends Pack",
@@ -1723,7 +1985,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "H-25K292",
+          "id": "N-s_SIR0",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_DrStrange",
@@ -1732,16 +1994,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13060",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "piyrtImS",
+    "id": "afSJlqcJ",
     "data": {
       "name": "Doom Pinball",
-      "id": "piyrtImS",
+      "id": "afSJlqcJ",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Bethesda Pinball",
@@ -1752,7 +2028,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "Lt_wMtqn",
+          "id": "DxaWgQIf",
           "theme": ["Licensed Theme", "Game"],
           "authors": ["Zen Studios"],
           "gameFileName": "BETHESDA_Doom",
@@ -1761,7 +2037,35 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13086",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1515279600000
+        }
+      ],
+      "pupPackFiles": [
+        {
+          "name": "Doom FX3 PuP-Pack (BG. Topper)",
+          "version": "1.2",
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/doom-fx3-pup-pack-bg-topper/",
+              "broken": true
+            }
+          ],
+          "authors": ["Pedroperes02", "Nailbuster", "TerryRed", "John Memeo"],
+          "updatedAt": 1610751600000
+        }
+      ],
+      "features": ["FX3", "B2S", "PuP"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -1827,7 +2131,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "MysFwwCK",
+          "id": "Rpe37kzf",
           "theme": ["Celebrities", "Fictional"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Dr_Dude",
@@ -1946,6 +2250,7 @@
         "MOD",
         "VPX",
         "SSF",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -1960,10 +2265,10 @@
   },
   {
     "action": "CREATE",
-    "id": "Ph6VV9nE",
+    "id": "Q0eoaNi8",
     "data": {
       "name": "E.T. Pinball",
-      "id": "Ph6VV9nE",
+      "id": "Q0eoaNi8",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Universal Classics Pinball",
@@ -1974,7 +2279,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "uRA0aC6L",
+          "id": "iTUWMuYe",
           "theme": ["Licensed Theme", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_ET",
@@ -1983,16 +2288,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13291",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1514761200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "SD285xpT",
+    "id": "dDRlUWW0",
     "data": {
       "name": "Earth Defense",
-      "id": "SD285xpT",
+      "id": "dDRlUWW0",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Sci-Fi Pack",
@@ -2003,7 +2322,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "1ZniHVY5",
+          "id": "DWdw5pkz",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "EarthDefense",
@@ -2012,16 +2331,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12969",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499551200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "KdSVQ7Yw",
+    "id": "2kGICARX",
     "data": {
       "name": "El Dorado",
-      "id": "KdSVQ7Yw",
+      "id": "2kGICARX",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Zen Classics Pack",
@@ -2032,7 +2365,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "MIuOhJN-",
+          "id": "Hy9ZkBRX",
           "theme": ["Legends"],
           "authors": ["Zen Studios"],
           "gameFileName": "Eldorado",
@@ -2041,16 +2374,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13087",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1506204000000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "EOKGQUAY",
+    "id": "EXdJ6CPT",
     "data": {
       "name": "Epic Quest",
-      "id": "EOKGQUAY",
+      "id": "EXdJ6CPT",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Medieval Pack",
@@ -2061,7 +2408,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "OdzwCCWx",
+          "id": "dUwiyQMX",
           "theme": ["Medieval"],
           "authors": ["Zen Studios"],
           "gameFileName": "Looter",
@@ -2070,16 +2417,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12956",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499378400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "AEMCPGsf",
+    "id": "Xdg7bo_y",
     "data": {
       "name": "Excalibur",
-      "id": "AEMCPGsf",
+      "id": "Xdg7bo_y",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Medieval Pack",
@@ -2090,7 +2451,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "b9Zi_bhv",
+          "id": "_cZVfWoF",
           "theme": ["Medieval"],
           "authors": ["Zen Studios"],
           "gameFileName": "Excalibur",
@@ -2099,16 +2460,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13339",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "TL_JEinm",
+    "id": "r-AaNHEG",
     "data": {
       "name": "Fallout Pinball",
-      "id": "TL_JEinm",
+      "id": "r-AaNHEG",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Bethesda Pinball",
@@ -2119,7 +2494,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "RulmWuZE",
+          "id": "UFFpuobs",
           "theme": ["Licensed Theme", "Game"],
           "authors": ["Zen Studios"],
           "gameFileName": "BETHESDA_Fallout",
@@ -2128,16 +2503,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13340",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "nspVXvl4",
+    "id": "U1lV4AjF",
     "data": {
       "name": "Family Guy Pinball",
-      "id": "nspVXvl4",
+      "id": "U1lV4AjF",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Balls of Glory Pinball",
@@ -2148,7 +2537,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "p32Cvu_J",
+          "id": "lTHBYMUW",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "FamilyGuy",
@@ -2157,16 +2546,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12957",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1515279600000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "q0LxlIBb",
+    "id": "hXrY9de4",
     "data": {
       "name": "Fantastic Four",
-      "id": "q0LxlIBb",
+      "id": "hXrY9de4",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Marvel Legends Pack",
@@ -2177,7 +2580,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "KYOXkqAM",
+          "id": "WYLSAx-T",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_FantasticFour",
@@ -2186,16 +2589,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13367",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1519081200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "lvXywWuT",
+    "id": "WHFVK2U2",
     "data": {
       "name": "Fear Itself",
-      "id": "lvXywWuT",
+      "id": "WHFVK2U2",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Avengers Chronicles",
@@ -2206,7 +2623,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "GjC_Cx6M",
+          "id": "Xgz6W5te",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_FearItSelf",
@@ -2215,7 +2632,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12966",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499551200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -2349,7 +2780,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "EypYWbWC",
+          "id": "2YdpwiGg",
           "theme": ["Sports", "Fishing"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Fish_Tales",
@@ -2371,6 +2802,18 @@
           "updatedAt": 1614985200000,
           "imgUrl": "https://fraesh.github.io/vps-db/img/47ceced42b628459d656da39ba0c1ded_b2s_1638093725992.webp",
           "id": "KOBMQfR-"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13908",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1541286000000
         }
       ],
       "altColorFiles": [
@@ -2477,6 +2920,7 @@
         "MOD",
         "VPX",
         "SSF",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -2586,7 +3030,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "ZfoetDdS",
+          "id": "6VQ2VkcY",
           "theme": ["Happiness", "Circus", "Carnival"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Funhouse",
@@ -2716,6 +3160,7 @@
         "MOD",
         "VPX",
         "FSS",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -2757,10 +3202,10 @@
   },
   {
     "action": "CREATE",
-    "id": "lA5zhw-R",
+    "id": "HrBzAuzI",
     "data": {
       "name": "Ghost Rider",
-      "id": "lA5zhw-R",
+      "id": "HrBzAuzI",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Vengeance and Virtue",
@@ -2771,7 +3216,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "6vNHnR2K",
+          "id": "TcQjFFMC",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_GhostRider",
@@ -2780,16 +3225,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12966",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1519081200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "ve28eCXm",
+    "id": "pCiHQy7m",
     "data": {
       "name": "Guardians of the Galaxy",
-      "id": "ve28eCXm",
+      "id": "pCiHQy7m",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Cinematic Pack",
@@ -2800,7 +3259,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "m_yhws2L",
+          "id": "RW88mv4s",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Guardians",
@@ -2809,7 +3268,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13410",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["senseless"],
+          "updatedAt": 1521759600000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -2902,7 +3375,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "10ewm1PC",
+          "id": "7BwZ2kB3",
           "theme": ["Happiness", "Circus", "Carnival"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Hurricane",
@@ -2982,6 +3455,7 @@
         "VPX",
         "incl. Art",
         "incl. B2S",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -3124,7 +3598,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "Zhs3EqH5",
+          "id": "jnu1B1pP",
           "theme": ["Adventure", "Fictional", "Licensed Theme"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Indiana_Jones",
@@ -3291,6 +3765,7 @@
         "VPX",
         "FastFlips",
         "FSS",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -3307,10 +3782,10 @@
   },
   {
     "action": "CREATE",
-    "id": "ELf_iVHi",
+    "id": "81x-JmcS",
     "data": {
       "name": "Iron Man",
-      "id": "ELf_iVHi",
+      "id": "81x-JmcS",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Original Pack",
@@ -3321,7 +3796,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "_nppMpsl",
+          "id": "deYR0ryi",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_IronMan",
@@ -3330,16 +3805,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13034",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1502488800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "NN2Ha5IR",
+    "id": "XWuSTJd_",
     "data": {
       "name": "Jaws Pinball",
-      "id": "NN2Ha5IR",
+      "id": "XWuSTJd_",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Universal Classics Pinball",
@@ -3350,7 +3839,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "DmyF54ZA",
+          "id": "3EzxXw-D",
           "theme": ["Licensed Theme", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_Jaws",
@@ -3359,7 +3848,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13293",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1514761200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -3420,7 +3923,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "dp_8nDxu",
+          "id": "7tR5UMpq",
           "theme": ["Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Junkyard",
@@ -3442,6 +3945,18 @@
           "updatedAt": 1575154800000,
           "imgUrl": "https://fraesh.github.io/vps-db/img/b4cb0899396b0a993ba444b4c278b2d7_b2s_1638093698649.webp",
           "id": "rJkJCOiZ"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13910",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1541286000000
         }
       ],
       "romFiles": [
@@ -3498,6 +4013,7 @@
         "MOD",
         "VPX",
         "FastFlips",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -3509,10 +4025,10 @@
   },
   {
     "action": "CREATE",
-    "id": "ZMTIFZXV",
+    "id": "CIyg-Fkr",
     "data": {
       "name": "Jurassic Park Pinball",
-      "id": "ZMTIFZXV",
+      "id": "CIyg-Fkr",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Jurassic World Pinball",
@@ -3523,7 +4039,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "EkuohUny",
+          "id": "qDfmI9Qm",
           "theme": ["Licensed Theme", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_Jurassic_Park",
@@ -3532,16 +4048,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13378",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1519340400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "v0mF7yUt",
+    "id": "l5NF9UsQ",
     "data": {
       "name": "Jurassic Park Pinball Mayhem",
-      "id": "v0mF7yUt",
+      "id": "l5NF9UsQ",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Jurassic World Pinball",
@@ -3552,7 +4082,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "KkAo6ueQ",
+          "id": "giOTxEfa",
           "theme": ["Licensed Theme", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_Jurassic_Theme_Park",
@@ -3561,16 +4091,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13379",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1519340400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "NwvfpAbZ",
+    "id": "yZxX7BhI",
     "data": {
       "name": "Jurassic World Pinball",
-      "id": "NwvfpAbZ",
+      "id": "yZxX7BhI",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Jurassic World Pinball",
@@ -3581,7 +4125,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "deZ9o8LQ",
+          "id": "FQlI5tp1",
           "theme": ["Licensed Theme", "Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "UNIVERSAL_Jurassic_World",
@@ -3590,16 +4134,51 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13377",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1519340400000
+        }
+      ],
+      "pupPackFiles": [
+        {
+          "name": "Jurassic World FX3 PuP-Pack (Backglass, Topper and SSF)",
+          "version": "1.0",
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/jurassic-world-fx3-pup-pack-backglass-topper-and-ssf/",
+              "broken": true
+            }
+          ],
+          "authors": [
+            "Pedroperes02",
+            "Nailbuster",
+            "TerryRed",
+            "John Memeo",
+            "Angry Jock",
+            "Joe Picasso"
+          ],
+          "updatedAt": 1610751600000
+        }
+      ],
+      "features": ["FX3", "B2S", "PuP"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "pDiOVvwD",
+    "id": "lzQr2axU",
     "data": {
       "name": "Mars",
-      "id": "pDiOVvwD",
+      "id": "lzQr2axU",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Sci-Fi Pack",
@@ -3610,7 +4189,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "G85Qzjfu",
+          "id": "6g8ojW7r",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Nars",
@@ -3619,16 +4198,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13199",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1513724400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "nYFN4i6m",
+    "id": "2_JLJXjg",
     "data": {
       "name": "Marvel's Ant-Man",
-      "id": "nYFN4i6m",
+      "id": "2_JLJXjg",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Marvel Pinball Cinematic Pack",
@@ -3639,7 +4232,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "wILgn47X",
+          "id": "wTckbG88",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Ant-Man",
@@ -3648,16 +4241,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13369",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1519081200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "fgc6JoJT",
+    "id": "EtvgYOOC",
     "data": {
       "name": "Marvel's Avengers Age of Ultron",
-      "id": "fgc6JoJT",
+      "id": "EtvgYOOC",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Marvel Pinball Cinematic Pack",
@@ -3668,7 +4275,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "_vkmPXjU",
+          "id": "iArCcDWO",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Age_of_Ultron",
@@ -3677,16 +4284,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13370",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1519081200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "WcOR2p36",
+    "id": "eeD6wgDQ",
     "data": {
       "name": "Marvel's The Avengers",
-      "id": "WcOR2p36",
+      "id": "eeD6wgDQ",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Avengers Chronicles",
@@ -3697,7 +4318,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "gcrpR3bl",
+          "id": "n7dUb2J9",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Avengers",
@@ -3706,16 +4327,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13371",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1519081200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "68S86O3k",
+    "id": "YDtIBV05",
     "data": {
       "name": "Marvel's Women of Power A-Force",
-      "id": "68S86O3k",
+      "id": "YDtIBV05",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Marvel Pinball Marvel's Women of Power",
@@ -3726,7 +4361,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "p-akPXOk",
+          "id": "acHzfMzl",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_MsMarvel",
@@ -3735,16 +4370,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13372",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1519081200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "2uwDxjWu",
+    "id": "fOUA_24M",
     "data": {
       "name": "Marvel's Women of Power Champions",
-      "id": "2uwDxjWu",
+      "id": "fOUA_24M",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Marvel Pinball Marvel's Women of Power",
@@ -3755,7 +4404,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "8Yei8Qrv",
+          "id": "PquC9KP2",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_WOP_TheNextGeneration",
@@ -3764,7 +4413,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13409",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1521586800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -3905,7 +4568,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "HvmJbIMO",
+          "id": "rHKfNiuk",
           "theme": ["Fantasy", "Medieval", "Wizards", "Magic"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Medieval_Madness",
@@ -3927,6 +4590,18 @@
           "updatedAt": 1576796400000,
           "imgUrl": "https://fraesh.github.io/vps-db/img/4a5d54f7cf9ef5021ad6c23de3a9f5ff_b2s_1638093710427.webp",
           "id": "kaoLtHsb"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13911",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1541286000000
         }
       ],
       "altColorFiles": [
@@ -4018,6 +4693,7 @@
         "VPX",
         "FSS",
         "FastFlips",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -4283,7 +4959,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "4Ew7wqnh",
+          "id": "IoWHnBvo",
           "theme": ["Horror", "Licensed Theme"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Monster_Bash",
@@ -4394,6 +5070,18 @@
           "authors": ["Classicradios", "Andrew Walsh"],
           "version": "1.1.0",
           "id": "3y7td3tx"
+        },
+        {
+          "name": "Monsterbash (VPX, PuP-Pack)",
+          "version": "1.1",
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/monster-bash-vpx-pup-pack/",
+              "broken": true
+            }
+          ],
+          "authors": ["Classicradios"],
+          "updatedAt": 1572994800000
         }
       ],
       "wheelArtFiles": [
@@ -4456,6 +5144,7 @@
         "VPX",
         "FSS",
         "FastFlips",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -4472,10 +5161,10 @@
   },
   {
     "action": "CREATE",
-    "id": "VRa2q2Xw",
+    "id": "sO1oqiw2",
     "data": {
       "name": "Moon Knight",
-      "id": "VRa2q2Xw",
+      "id": "sO1oqiw2",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Vengeance and Virtue",
@@ -4486,7 +5175,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "8KcgfduV",
+          "id": "_8_jlukU",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_MoonKnight",
@@ -4495,16 +5184,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13341",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "v1iAdAVt",
+    "id": "pDvXkhAU",
     "data": {
       "name": "Ms. Splosion Man",
-      "id": "v1iAdAVt",
+      "id": "pDvXkhAU",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Pinball FX2",
@@ -4515,7 +5218,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "GEzEA3Jp",
+          "id": "IMrrNLLx",
           "theme": ["Licensed Theme"],
           "authors": ["Zen Studios"],
           "gameFileName": "Splosionman",
@@ -4524,7 +5227,21 @@
           "tableFormat": "FX2"
         }
       ],
-      "features": ["FX2"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12971",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499551200000
+        }
+      ],
+      "features": ["FX2", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -4603,7 +5320,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "SqoVqZO-",
+          "id": "aUBpapLk",
           "theme": ["Sports", "Golf"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_No_Good_Gofers",
@@ -4693,6 +5410,7 @@
         "VPX",
         "FSS",
         "FastFlips",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -4740,10 +5458,10 @@
   },
   {
     "action": "CREATE",
-    "id": "10qlv6cD",
+    "id": "MfPacfn9",
     "data": {
       "name": "Paranormal",
-      "id": "10qlv6cD",
+      "id": "MfPacfn9",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Sci-Fi Pack",
@@ -4754,7 +5472,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "C18-7PX1",
+          "id": "WhTQMTwv",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Paranormal",
@@ -4763,16 +5481,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12958",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499378400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "A89NeTvt",
+    "id": "YIjARuli",
     "data": {
       "name": "Pasha",
-      "id": "A89NeTvt",
+      "id": "YIjARuli",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Core Collection Pack",
@@ -4783,7 +5515,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "-KoRwsQQ",
+          "id": "ps9XF7p9",
           "theme": ["Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "Pasha",
@@ -4792,16 +5524,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12989",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1500156000000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "otBbsoP1",
+    "id": "IIbHuTMN",
     "data": {
       "name": "Plants vs. Zombies",
-      "id": "otBbsoP1",
+      "id": "IIbHuTMN",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "theme": ["Licensed Theme"],
@@ -4811,7 +5557,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "mzOXy2z5",
+          "id": "ezG8sawq",
           "theme": ["Licensed Theme"],
           "authors": ["Zen Studios"],
           "gameFileName": "plantsvszombies",
@@ -4820,16 +5566,30 @@
           "tableFormat": "FX2"
         }
       ],
-      "features": ["FX2"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12959",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "2",
+          "authors": ["DDH69"],
+          "updatedAt": 1516489200000
+        }
+      ],
+      "features": ["FX2", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "rSg90M6m",
+    "id": "SQ0gMY8e",
     "data": {
       "name": "Portal",
-      "id": "rSg90M6m",
+      "id": "SQ0gMY8e",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Portal Pinball",
@@ -4840,7 +5600,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "1WNsdEdC",
+          "id": "xK6gQ6YD",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Portal",
@@ -4849,7 +5609,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13016",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -4945,7 +5719,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "Qkx6BNM4",
+          "id": "SzGJ9G2v",
           "theme": ["Travel"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Roadshow",
@@ -5050,6 +5824,7 @@
         "MOD",
         "VPX",
         "VR",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -5064,10 +5839,10 @@
   },
   {
     "action": "CREATE",
-    "id": "BJw02c8S",
+    "id": "-YvvPVSn",
     "data": {
       "name": "Rome",
-      "id": "BJw02c8S",
+      "id": "-YvvPVSn",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Core Collection Pack",
@@ -5078,7 +5853,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "UjleWxZc",
+          "id": "nyYS7gan",
           "theme": ["Legends"],
           "authors": ["Zen Studios"],
           "gameFileName": "Rome",
@@ -5163,7 +5938,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "9PpzqkoY",
+          "id": "_ELCbKmu",
           "theme": ["Cops and Robbers", "Money"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Safe_Cracker",
@@ -5270,6 +6045,7 @@
         "MOD",
         "VPX",
         "FastFlips",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -5285,10 +6061,10 @@
   },
   {
     "action": "CREATE",
-    "id": "4e8pcqcG",
+    "id": "ckwfgv9u",
     "data": {
       "name": "Secrets of the Deep",
-      "id": "4e8pcqcG",
+      "id": "ckwfgv9u",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Core Collection Pack",
@@ -5299,7 +6075,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "VJYzMm4h",
+          "id": "BUeaco8P",
           "theme": ["Legends"],
           "authors": ["Zen Studios"],
           "gameFileName": "Atlantis",
@@ -5308,16 +6084,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13342",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "Xsi_RGr9",
+    "id": "Nlr4_9mD",
     "data": {
       "name": "Shaman",
-      "id": "Xsi_RGr9",
+      "id": "Nlr4_9mD",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Zen Classics Pack",
@@ -5328,7 +6118,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "R7zyMkvY",
+          "id": "u-P91z_4",
           "theme": ["Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "Shaman",
@@ -5343,10 +6133,10 @@
   },
   {
     "action": "CREATE",
-    "id": "azimEh0H",
+    "id": "aHEbWqso",
     "data": {
       "name": "Son of Zeus",
-      "id": "azimEh0H",
+      "id": "aHEbWqso",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Carnival & Legends",
@@ -5357,7 +6147,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "rWmieIbn",
+          "id": "2A-nOl5G",
           "theme": ["Legends"],
           "authors": ["Zen Studios"],
           "gameFileName": "Hercules",
@@ -5366,16 +6156,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13201",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1513724400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "VisgBm1X",
+    "id": "q9Pywo-y",
     "data": {
       "name": "Sorcerer's Lair",
-      "id": "VisgBm1X",
+      "id": "q9Pywo-y",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Pinball FX2",
@@ -5386,7 +6190,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "HHoORWdR",
+          "id": "QeZVKxt-",
           "theme": ["Fantasy"],
           "authors": ["Zen Studios"],
           "gameFileName": "Citadel",
@@ -5401,10 +6205,10 @@
   },
   {
     "action": "CREATE",
-    "id": "uEXUyBef",
+    "id": "ym4kiB_D",
     "data": {
       "name": "South Park - Butters' Very Own Pinball Game",
-      "id": "uEXUyBef",
+      "id": "ym4kiB_D",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "South Park Pinball 2 Table Pack",
@@ -5415,7 +6219,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "3C2zz6N9",
+          "id": "83geIcSX",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "Southpark2",
@@ -5424,16 +6228,30 @@
           "tableFormat": "FX2"
         }
       ],
-      "features": ["FX2"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12960",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499378400000
+        }
+      ],
+      "features": ["FX2", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "cF6rmPPJ",
+    "id": "vCarNqyA",
     "data": {
       "name": "South Park - Super Sweet Pinball",
-      "id": "cF6rmPPJ",
+      "id": "vCarNqyA",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "South Park Pinball 2 Table Pack",
@@ -5444,7 +6262,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "oEkhJMxm",
+          "id": "EnlCopjT",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "Southpark1",
@@ -5453,7 +6271,21 @@
           "tableFormat": "FX2"
         }
       ],
-      "features": ["FX2"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12986",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1500156000000
+        }
+      ],
+      "features": ["FX2", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -5492,7 +6324,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "2GtjuQ4K",
+          "id": "oXe5YRSu",
           "theme": ["Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Space_Station",
@@ -5568,7 +6400,7 @@
           "id": "asp9kW8s"
         }
       ],
-      "features": ["SSF", "VPX", "B2S", "ROM", "POV", "Wheel", "Topper"],
+      "features": ["SSF", "VPX", "FX3", "B2S", "ROM", "POV", "Wheel", "Topper"],
       "lastCreatedAt": 1516489200000,
       "imgUrl": "https://fraesh.github.io/vps-db/img/a3f6dd97bd43e6e5a67ff002b7c5b01c_cover_1638358847081.webp",
       "broken": false,
@@ -5577,10 +6409,10 @@
   },
   {
     "action": "CREATE",
-    "id": "EzU7dMv4",
+    "id": "Em0MXlrN",
     "data": {
       "name": "Spider-Man",
-      "id": "EzU7dMv4",
+      "id": "Em0MXlrN",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Original Pack",
@@ -5591,7 +6423,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "sdZQCcXC",
+          "id": "9w367dKx",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_SpiderMan",
@@ -5600,16 +6432,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13417",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1523138400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "O9Rbjw_5",
+    "id": "RP516eQB",
     "data": {
       "name": "Star Wars Pinball - Ahch-To Island",
-      "id": "O9Rbjw_5",
+      "id": "RP516eQB",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Star Wars Pinball The Last Jedi",
@@ -5620,7 +6466,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "ISIhxoMN",
+          "id": "dQ8HmLvp",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "SpaceBear2",
@@ -5629,16 +6475,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13437",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["senseless"],
+          "updatedAt": 1524261600000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "J_2FCAZw",
+    "id": "-ADs8A2T",
     "data": {
       "name": "Star Wars Pinball - Battle of Mimban War",
-      "id": "J_2FCAZw",
+      "id": "-ADs8A2T",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Star Wars Pinball Solo Pack",
@@ -5649,7 +6509,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "T5rdWfC_",
+          "id": "mccky9r4",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "RedCup3",
@@ -5664,10 +6524,10 @@
   },
   {
     "action": "CREATE",
-    "id": "2SHTsi2Q",
+    "id": "UNmAoob8",
     "data": {
       "name": "Star Wars Pinball - Boba Fett",
-      "id": "2SHTsi2Q",
+      "id": "UNmAoob8",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball",
@@ -5678,7 +6538,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "6PBXC5Kf",
+          "id": "ig2_cQCu",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Boba_Fett",
@@ -5687,16 +6547,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12990",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1500156000000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "JSo7h5fM",
+    "id": "aEKL3AQS",
     "data": {
       "name": "Star Wars Pinball - Calrissian Chronicles",
-      "id": "JSo7h5fM",
+      "id": "aEKL3AQS",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Star Wars Pinball Solo Pack",
@@ -5707,7 +6581,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "8rPue_ZO",
+          "id": "qvwCx8fC",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "RedCup2",
@@ -5722,10 +6596,10 @@
   },
   {
     "action": "CREATE",
-    "id": "qnbfK7F6",
+    "id": "XZYNNi6Q",
     "data": {
       "name": "Star Wars Pinball - Darth Vader",
-      "id": "qnbfK7F6",
+      "id": "XZYNNi6Q",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball Balance of the Force",
@@ -5736,7 +6610,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "EfyUqkmR",
+          "id": "shc2Z3NK",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Darth_Vader",
@@ -5745,16 +6619,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13408",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1521586800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "8Xgs5pCr",
+    "id": "IBo3BQ9R",
     "data": {
       "name": "Star Wars Pinball - Droids",
-      "id": "8Xgs5pCr",
+      "id": "IBo3BQ9R",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Star Wars Pinball Heroes Within",
@@ -5765,7 +6653,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "rsBwgQ-b",
+          "id": "pwY7n-AE",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Droids",
@@ -5780,10 +6668,10 @@
   },
   {
     "action": "CREATE",
-    "id": "Lu_uc8S8",
+    "id": "2X4QrVSl",
     "data": {
       "name": "Star Wars Pinball - Episode IV A New Hope",
-      "id": "Lu_uc8S8",
+      "id": "2X4QrVSl",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Star Wars Pinball Heroes Within",
@@ -5794,7 +6682,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "C1K3Z48_",
+          "id": "lN2AjWlp",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Episode_4",
@@ -5803,16 +6691,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13419",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1523138400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "BDH3J_iV",
+    "id": "X8tW8BSq",
     "data": {
       "name": "Star Wars Pinball - Episode V The Empire Strikes Back",
-      "id": "BDH3J_iV",
+      "id": "X8tW8BSq",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball",
@@ -5823,7 +6725,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "crErTCto",
+          "id": "opQYaNGx",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Episode_5",
@@ -5832,16 +6734,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13420",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["senseless"],
+          "updatedAt": 1523138400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "MqsZqnyN",
+    "id": "2HRbDI1s",
     "data": {
       "name": "Star Wars Pinball - Episode VI Return of the Jedi",
-      "id": "MqsZqnyN",
+      "id": "2HRbDI1s",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball Balance of the Force",
@@ -5852,7 +6768,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "ZFO7kPeV",
+          "id": "JYowoi6k",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Episode_6",
@@ -5861,16 +6777,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12988",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1500156000000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "LAAWC18M",
+    "id": "wOcpiLN5",
     "data": {
       "name": "Star Wars Pinball - Han Solo",
-      "id": "LAAWC18M",
+      "id": "wOcpiLN5",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Star Wars Pinball Heroes Within",
@@ -5881,7 +6811,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "ItPME2Yu",
+          "id": "M7mghvqe",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Han_Solo",
@@ -5896,10 +6826,10 @@
   },
   {
     "action": "CREATE",
-    "id": "p8c_Iu9Y",
+    "id": "zM2gyg3v",
     "data": {
       "name": "Star Wars Pinball - Masters of the Force",
-      "id": "p8c_Iu9Y",
+      "id": "zM2gyg3v",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Star Wars Pinball Heroes Within",
@@ -5910,7 +6840,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "GYc_3alS",
+          "id": "XK-w7HiM",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Light_VS_Dark",
@@ -5925,10 +6855,10 @@
   },
   {
     "action": "CREATE",
-    "id": "kA2asWR0",
+    "id": "aD15MFIl",
     "data": {
       "name": "Star Wars Pinball - Might of the First Order",
-      "id": "kA2asWR0",
+      "id": "aD15MFIl",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Star Wars Pinball The Force Awakens Pack",
@@ -5939,7 +6869,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "N_camzlP",
+          "id": "IE5-UYeb",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_AVCO2",
@@ -5948,16 +6878,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12991",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1514761200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "5aG1CIJI",
+    "id": "5-Xujd2f",
     "data": {
       "name": "Star Wars Pinball - Rebels",
-      "id": "5aG1CIJI",
+      "id": "5-Xujd2f",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Star Wars Pinball Unsung Heroes",
@@ -5968,7 +6912,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "JONrBVBZ",
+          "id": "2cxymrtz",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Rebels",
@@ -5977,16 +6921,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13306",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1515279600000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "YTtpN9bo",
+    "id": "Wq6-Ja_Z",
     "data": {
       "name": "Star Wars Pinball - Rogue One",
-      "id": "YTtpN9bo",
+      "id": "Wq6-Ja_Z",
       "manufacturer": "Zen Studios",
       "year": 2017,
       "category": "Star Wars Pinball Unsung Heroes",
@@ -5997,7 +6955,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "zRft8uma",
+          "id": "GU-3QlsS",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_LAPB",
@@ -6006,16 +6964,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13017",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1517698800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "9Mpm-hKm",
+    "id": "YOnTzG4i",
     "data": {
       "name": "Star Wars Pinball - Solo",
-      "id": "9Mpm-hKm",
+      "id": "YOnTzG4i",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Star Wars Pinball Solo Pack",
@@ -6026,7 +6998,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "xiXQjrBs",
+          "id": "L1DXVTPm",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "RedCup1",
@@ -6041,10 +7013,10 @@
   },
   {
     "action": "CREATE",
-    "id": "EAIGFvpv",
+    "id": "-QapTUxg",
     "data": {
       "name": "Star Wars Pinball - Starfighter Assault",
-      "id": "EAIGFvpv",
+      "id": "-QapTUxg",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball Balance of the Force",
@@ -6055,7 +7027,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "vO8zeNwr",
+          "id": "dUMRlwd2",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_SFA",
@@ -6064,16 +7036,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13407",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1521586800000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "ccIhaZFJ",
+    "id": "gc_fCLKX",
     "data": {
       "name": "Star Wars Pinball - The Clone Wars",
-      "id": "ccIhaZFJ",
+      "id": "gc_fCLKX",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Star Wars Pinball",
@@ -6084,7 +7070,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "s7AoEPLK",
+          "id": "7tmIfdAp",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_CloneWars",
@@ -6093,16 +7079,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13418",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1523138400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "npDGPdsQ",
+    "id": "9OiBgvNc",
     "data": {
       "name": "Star Wars Pinball - The Last Jedi",
-      "id": "npDGPdsQ",
+      "id": "9OiBgvNc",
       "manufacturer": "Zen Studios",
       "year": 2018,
       "category": "Star Wars Pinball The Last Jedi",
@@ -6113,7 +7113,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "TRYqr_Sc",
+          "id": "mofyWMuu",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "SpaceBear1",
@@ -6122,16 +7122,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13436",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["senseless"],
+          "updatedAt": 1524261600000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "Nf14AYhB",
+    "id": "l_Goj8OT",
     "data": {
       "name": "Star Wars Pinball - VII The Force Awakens",
-      "id": "Nf14AYhB",
+      "id": "l_Goj8OT",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Star Wars Pinball The Force Awakens Pack",
@@ -6142,7 +7156,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "okYLfyPC",
+          "id": "ZbV-l6_K",
           "theme": ["Licensed", "Outer Space"],
           "authors": ["Zen Studios"],
           "gameFileName": "STARWARS_Episode7",
@@ -6151,16 +7165,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13305",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1515279600000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "GkvpC5QO",
+    "id": "Py45rx2y",
     "data": {
       "name": "Super League Football",
-      "id": "GkvpC5QO",
+      "id": "Py45rx2y",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "theme": ["Sports", "Football"],
@@ -6170,7 +7198,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "ojxzHfTP",
+          "id": "Su7J1NDK",
           "theme": ["Sports", "Football"],
           "authors": ["Zen Studios"],
           "gameFileName": "Football",
@@ -6179,7 +7207,21 @@
           "tableFormat": "FX2"
         }
       ],
-      "features": ["FX2"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13198",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1513724400000
+        }
+      ],
+      "features": ["FX2", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -6295,7 +7337,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "HhEd99mD",
+          "id": "CCkRwbGS",
           "theme": ["Fantasy", "Myth and Legend"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Tales_of_the_Arabian_Nights",
@@ -6401,6 +7443,7 @@
         "FastFlips",
         "4k",
         "MOD",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -6415,10 +7458,10 @@
   },
   {
     "action": "CREATE",
-    "id": "8Y55uWml",
+    "id": "wyotFFE4",
     "data": {
       "name": "Tesla",
-      "id": "8Y55uWml",
+      "id": "wyotFFE4",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Zen Classics Pack",
@@ -6429,7 +7472,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "1686wDOh",
+          "id": "Ndr5Vh8K",
           "theme": ["Science Fiction"],
           "authors": ["Zen Studios"],
           "gameFileName": "Tesla",
@@ -6438,7 +7481,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12967",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499551200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -6494,7 +7551,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "GiLh8zor",
+          "id": "b3iKqnmp",
           "theme": ["Sports", "Boxing"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Champion_Pub",
@@ -6599,6 +7656,7 @@
         "MOD",
         "VPX",
         "FastFlips",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -6629,10 +7687,10 @@
   },
   {
     "action": "CREATE",
-    "id": "1Zi8aHF6",
+    "id": "Gda1Ftiy",
     "data": {
       "name": "The Elder Scrolls V Skyrim Pinball",
-      "id": "1Zi8aHF6",
+      "id": "Gda1Ftiy",
       "manufacturer": "Zen Studios",
       "year": 2016,
       "category": "Bethesda Pinball",
@@ -6643,7 +7701,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "cpYTdRlI",
+          "id": "9FDT5aNv",
           "theme": ["Licensed Theme", "Game"],
           "authors": ["Zen Studios"],
           "gameFileName": "BETHESDA_Skyrim",
@@ -6652,7 +7710,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13197",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1514761200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -6746,7 +7818,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "t-dCOv9q",
+          "id": "UExbSJLf",
           "theme": ["Cops", "Driving", "Police", "Speeding"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_Getaway",
@@ -6767,6 +7839,18 @@
           "updatedAt": 1647129749243,
           "id": "0Wds5qm-",
           "imgUrl": "https://fraesh.github.io/vps-db/img/cCV4A6uc_b2s_1647291928654.webp"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13909",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1541286000000
         }
       ],
       "romFiles": [
@@ -6823,6 +7907,24 @@
           ],
           "updatedAt": 1647129614822,
           "id": "6CSxXP0l"
+        },
+        {
+          "name": "The Getaway 2 FX3 PuP-Pack SSF",
+          "version": "1.0",
+          "urls": [
+            {
+              "url": "https://vpinball.com/VPBdownloads/getaway-2-fx3-pup-pack-ssf/",
+              "broken": true
+            }
+          ],
+          "authors": [
+            "Pedropires1976",
+            "Harlan Russo",
+            "John Memeo",
+            "Joey Beaulieu",
+            "Super Dimi"
+          ],
+          "updatedAt": 1614639600000
         }
       ],
       "wheelArtFiles": [
@@ -6895,6 +7997,7 @@
         "VPX",
         "FastFlips",
         "FSS",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -6910,10 +8013,10 @@
   },
   {
     "action": "CREATE",
-    "id": "4W-CVBpp",
+    "id": "rjPOmeGe",
     "data": {
       "name": "The Infinity Gauntlet",
-      "id": "4W-CVBpp",
+      "id": "rjPOmeGe",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Avengers Chronicles",
@@ -6924,7 +8027,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "HTGcBylB",
+          "id": "65_UJ3Ll",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_InfinityGauntlet",
@@ -6933,7 +8036,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12987",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1500156000000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -7027,7 +8144,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "xAO2HoG4",
+          "id": "Gp1e044P",
           "theme": ["Happiness"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_Party_Zone",
@@ -7049,6 +8166,18 @@
           "updatedAt": 1611356400000,
           "imgUrl": "https://fraesh.github.io/vps-db/img/fb7b1b2516e0f941061e60ce0849903b_b2s_1638093698700.webp",
           "id": "KGgY-sD3"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13970",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1543964400000
         }
       ],
       "romFiles": [
@@ -7120,6 +8249,7 @@
         "MOD",
         "VPX",
         "FSS",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -7147,10 +8277,10 @@
   },
   {
     "action": "CREATE",
-    "id": "0Grnr8ll",
+    "id": "vGWzIhsr",
     "data": {
       "name": "The Walking Dead",
-      "id": "0Grnr8ll",
+      "id": "vGWzIhsr",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Telltale's The Walking Dead Pinball",
@@ -7161,7 +8291,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "hvVVNHpj",
+          "id": "sU-ssRi1",
           "theme": ["Licensed Theme", "Supernatural", "Zombies"],
           "authors": ["Zen Studios"],
           "gameFileName": "TheWalkingDead",
@@ -7170,7 +8300,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13411",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["senseless"],
+          "updatedAt": 1521759600000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -7256,7 +8400,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "pHghBbt-",
+          "id": "kiiLM_GN",
           "theme": ["Show Business", "Magic"],
           "authors": ["Zen Studios"],
           "gameFileName": "BALLY_TheatreOfMagic",
@@ -7279,6 +8423,18 @@
           "authors": ["Wildman"],
           "imgUrl": "https://fraesh.github.io/vps-db/img/7588a2b053495f8eaf9bc58cba0cfb99_b2s_1638358844779.webp",
           "id": "YwZGOJeG"
+        },
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13196",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1514761200000
         }
       ],
       "altColorFiles": [
@@ -7376,6 +8532,7 @@
         "MOD",
         "VPX",
         "SSF",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -7407,10 +8564,10 @@
   },
   {
     "action": "CREATE",
-    "id": "E06gMDR7",
+    "id": "P6DNo4w2",
     "data": {
       "name": "Thor",
-      "id": "E06gMDR7",
+      "id": "P6DNo4w2",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Vengeance and Virtue",
@@ -7421,7 +8578,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "xH5tviiY",
+          "id": "IU7Zkqv1",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Thor",
@@ -7430,16 +8587,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12963",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499378400000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "hgnep0Oo",
+    "id": "kK0wZBYn",
     "data": {
       "name": "V12",
-      "id": "hgnep0Oo",
+      "id": "kK0wZBYn",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Zen Classics Pack",
@@ -7450,7 +8621,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "x9ymcrlz",
+          "id": "nPMTSUob",
           "theme": ["Driving", "Speeding"],
           "authors": ["Zen Studios"],
           "gameFileName": "V12",
@@ -7459,16 +8630,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13194",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1514761200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "k313qIge",
+    "id": "ZQ23Ls6t",
     "data": {
       "name": "Venom",
-      "id": "k313qIge",
+      "id": "ZQ23Ls6t",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Heavy Hitters",
@@ -7479,7 +8664,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "3eWngvdl",
+          "id": "G4ezO8gY",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Venom",
@@ -7488,7 +8673,21 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12968",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499551200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
@@ -7597,7 +8796,7 @@
         },
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "X6zpIoOQ",
+          "id": "MGSsVMlD",
           "theme": ["Rafting, Water Sports, Myth and Legend"],
           "authors": ["Zen Studios"],
           "gameFileName": "WMS_White_Water",
@@ -7719,6 +8918,7 @@
         "FSS",
         "MOD",
         "SSF",
+        "FX3",
         "B2S",
         "ROM",
         "POV",
@@ -7735,10 +8935,10 @@
   },
   {
     "action": "CREATE",
-    "id": "YfKHP8Wh",
+    "id": "9C9EMQDj",
     "data": {
       "name": "Wild West Rampage",
-      "id": "YfKHP8Wh",
+      "id": "9C9EMQDj",
       "manufacturer": "Zen Studios",
       "year": 2015,
       "category": "Iron & Steel Pack",
@@ -7749,7 +8949,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "N9FpWWgW",
+          "id": "VQBw0p4d",
           "theme": ["Cowboy", "Wild West"],
           "authors": ["Zen Studios"],
           "gameFileName": "Western",
@@ -7758,16 +8958,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13035",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1513983600000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "XH1b7wRb",
+    "id": "8be3V_4N",
     "data": {
       "name": "Wolverine",
-      "id": "XH1b7wRb",
+      "id": "8be3V_4N",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Original Pack",
@@ -7778,7 +8992,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "GVOKcK79",
+          "id": "sYqkvr5-",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_Wolverine",
@@ -7787,16 +9001,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=13195",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1,1",
+          "authors": ["DDH69"],
+          "updatedAt": 1513983600000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "6wm4L-Jh",
+    "id": "wN2A3iiB",
     "data": {
       "name": "World War Hulk",
-      "id": "6wm4L-Jh",
+      "id": "wN2A3iiB",
       "manufacturer": "Zen Studios",
       "year": 2014,
       "category": "Marvel Pinball Avengers Chronicles",
@@ -7807,7 +9035,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "yhWTv79k",
+          "id": "7Gc7yD0a",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_WWH",
@@ -7816,16 +9044,30 @@
           "tableFormat": "FX3"
         }
       ],
-      "features": ["FX3"],
+      "b2sFiles": [
+        {
+          "urls": [
+            {
+              "url": "https://www.vpforums.org/index.php?app=downloads&showfile=12970",
+              "broken": false
+            }
+          ],
+          "comment": "For Pinball FX",
+          "version": "1",
+          "authors": ["DDH69"],
+          "updatedAt": 1499551200000
+        }
+      ],
+      "features": ["FX3", "B2S"],
       "lastCreatedAt": 946681200000
     }
   },
   {
     "action": "CREATE",
-    "id": "IW2m9HFJ",
+    "id": "phOiYA09",
     "data": {
       "name": "X-men",
-      "id": "IW2m9HFJ",
+      "id": "phOiYA09",
       "manufacturer": "Zen Studios",
       "year": 2013,
       "category": "Marvel Pinball Vengeance and Virtue",
@@ -7836,7 +9078,7 @@
       "tableFiles": [
         {
           "urls": [{ "url": "https://zenstudios.com/", "broken": false }],
-          "id": "RDVwygN8",
+          "id": "L2epL7LU",
           "theme": ["Licensed Theme", "Comic"],
           "authors": ["Zen Studios"],
           "gameFileName": "MARVEL_XMen",
